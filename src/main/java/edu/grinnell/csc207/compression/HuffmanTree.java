@@ -1,6 +1,9 @@
 package edu.grinnell.csc207.compression;
 
+import java.util.Comparator;
 import java.util.Map;
+import java.util.PriorityQueue;
+import java.util.function.BiConsumer;
 
 /**
  * A HuffmanTree derives a space-efficient coding of a collection of byte
@@ -16,12 +19,76 @@ import java.util.Map;
  */
 public class HuffmanTree {
 
+    private PriorityQueue<Node> queue;
+
+    private Node root;
+
+    private class Node {
+
+        private short bits;
+
+        private int frequency;
+        
+        private Node left;
+        
+        private Node right;
+
+        public Node(short bits, int frequency, Node left, Node right) {
+            this.bits = bits;
+            this.frequency = frequency;
+            this.left = left;
+            this.right = right;
+        }
+
+        public Node(short bits, int frequency) {
+            this(bits, frequency, null, null);
+        }
+
+        public Node(Node left, Node right) {
+            this((short) -1, left.getFrequency() + right.getFrequency(), left, right);
+        }
+
+        public int getFrequency() {
+            return this.frequency;
+        }
+    }
+
+    private class Enqueue implements BiConsumer<Short, Integer> {
+
+        @Override
+        public void accept(Short bits, Integer frequency) {
+            Node newNode = new Node(bits, frequency);
+            queue.add(newNode);
+        }
+    }
+
+    private class CompareNodes implements Comparator<Node> {
+
+        @Override
+        public int compare(Node o1, Node o2) {
+            if (o1.getFrequency() < o2.getFrequency()) {
+                return -1;
+            } else if (o1.getFrequency() > o2.getFrequency()) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+
+    }
+
     /**
      * Constructs a new HuffmanTree from a frequency map.
      * @param freqs a map from 9-bit values to frequencies.
      */
     public HuffmanTree (Map<Short, Integer> freqs) {
-        // TODO: fill me in!
+        queue = new PriorityQueue<>(new CompareNodes());
+        freqs.forEach(new Enqueue());
+        while (queue.size() > 1) {
+            Node newNode = new Node(queue.poll(), queue.poll());
+            queue.add(newNode);
+        }
+        this.root = queue.poll();
     }
 
     /**

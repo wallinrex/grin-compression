@@ -1,12 +1,12 @@
 # Project: Grin Compression
 
-Authors: (_TODO: fill in names here!_)
+Authors: Rex Wallin
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   Java BiConsumer Docs: https://docs.oracle.com/javase/8/docs/api/java/util/function/BiConsumer.html
+*   Java Map Docs: https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
+*   Java PriorityQueue Docs: https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
 
 ## Revision Log
 

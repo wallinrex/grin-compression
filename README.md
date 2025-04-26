@@ -7,6 +7,7 @@ Authors: Rex Wallin
 *   Java BiConsumer Docs: https://docs.oracle.com/javase/8/docs/api/java/util/function/BiConsumer.html
 *   Java Map Docs: https://docs.oracle.com/javase/8/docs/api/java/util/Map.html
 *   Java PriorityQueue Docs: https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
+*   Java Stack Docs: https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
 
 ## Revision Log
 

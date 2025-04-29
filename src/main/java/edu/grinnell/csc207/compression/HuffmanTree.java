@@ -46,7 +46,7 @@ public class HuffmanTree {
         }
 
         public Node(Node left, Node right) {
-            this((short) -1, left.getFrequency() + right.getFrequency(), left, right);
+            this((short) -1, left.frequency + right.frequency, left, right);
         }
 
         public Node() {
@@ -55,10 +55,6 @@ public class HuffmanTree {
 
         public Node(short bits) {
             this(bits, 0, null, null);
-        }
-
-        public int getFrequency() {
-            return this.frequency;
         }
     }
 
@@ -75,9 +71,9 @@ public class HuffmanTree {
 
         @Override
         public int compare(Node o1, Node o2) {
-            if (o1.getFrequency() < o2.getFrequency()) {
+            if (o1.frequency < o2.frequency) {
                 return -1;
-            } else if (o1.getFrequency() > o2.getFrequency()) {
+            } else if (o1.frequency > o2.frequency) {
                 return 1;
             } else {
                 return 0;
@@ -93,6 +89,8 @@ public class HuffmanTree {
      */
     public HuffmanTree(Map<Short, Integer> freqs) {
         queue = new PriorityQueue<>(new CompareNodes());
+        Node eofNode = new Node((short) 256, 1);
+        queue.add(eofNode);
         freqs.forEach(new Enqueue());
         while (queue.size() > 1) {
             Node newNode = new Node(queue.poll(), queue.poll());
@@ -116,7 +114,7 @@ public class HuffmanTree {
         Node newNode = new Node();
         path.push(newNode);
         while (!path.isEmpty()) {
-            if (path.peek().left == null) {
+            if (path.peek().left == null) { // could i write this recursively to avoid the nasty ifs?
                 bit = in.readBit();
                 if (bit == 1) {
                     newNode = new Node();
@@ -163,7 +161,25 @@ public class HuffmanTree {
      * @param out the output file as a BitOutputStream
      */
     public void serialize(BitOutputStream out) {
-        // TODO: fill me in!
+        serializeHelper(out, root);
+    }
+
+    /**
+     * Helper for serialize that serializes a node and recursively serializes
+     * its children.
+     * 
+     * @param out the output file as a BitOutpuStream
+     * @param root the node to be serialized
+     */
+    private void serializeHelper(BitOutputStream out, Node root) {
+        if(root.bits < 0) {
+            out.writeBit(1);
+            serializeHelper(out, root.left);
+            serializeHelper(out, root.right);
+        } else {
+            out.writeBit(0);
+            out.writeBits(root.bits, 9);
+        }
     }
 
     /**

@@ -204,6 +204,31 @@ public class HuffmanTree {
      * @param out the file to write the decompressed output to.
      */
     public void decode(BitInputStream in, BitOutputStream out) {
-        // TODO: fill me in!
+        short bits = decodeBitSequence(in);
+        while(bits != 256) {
+            out.writeBits(bits, 8);
+            bits = decodeBitSequence(in);
+        }
+        out.close();
+    }
+
+    /**
+     * Decodes the first Huffman code in in
+     * 
+     * @param in the file to read from
+     * @return the bit sequence corresponding to the code read
+     */
+    private short decodeBitSequence(BitInputStream in) {
+        Node curr = root;
+        int bit;
+        while(curr.bits < 0) {
+            bit = in.readBit();
+            if(bit == 0) {
+                curr = root.left;
+            } else {
+                curr = root.right;
+            }
+        }
+        return curr.bits;
     }
 }

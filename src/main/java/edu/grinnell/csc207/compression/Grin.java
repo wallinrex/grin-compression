@@ -1,5 +1,6 @@
 package edu.grinnell.csc207.compression;
 
+import java.io.IOException;
 import java.util.Map;
 
 /**
@@ -11,9 +12,17 @@ public class Grin {
      * .grin file denoted by outfile.
      * @param infile the file to decode
      * @param outfile the file to ouptut to
+     * @throws IOException if either of the files cannot be opened
      */
-    public static void decode (String infile, String outfile) {
-        // TODO: fill me in!
+    public static void decode (String infile, String outfile) throws IOException {
+        BitInputStream in = new BitInputStream(infile);
+        BitOutputStream out = new BitOutputStream(outfile);
+        int magicNumber = in.readBits(32);
+        if(magicNumber != 1846) {
+            throw new IllegalArgumentException();
+        }
+        HuffmanTree tree = new HuffmanTree(in);
+        tree.decode(in, out);
     }
 
     /**

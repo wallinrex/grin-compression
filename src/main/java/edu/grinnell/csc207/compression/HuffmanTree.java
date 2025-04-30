@@ -191,7 +191,62 @@ public class HuffmanTree {
      * @param out the file to write the compressed output to.
      */
     public void encode(BitInputStream in, BitOutputStream out) {
-        // TODO: fill me in!
+        bitCode toWrite;
+        while(in.hasBits()) {
+            toWrite = encodeBitSequence(in);
+            out.writeBits(toWrite.bits, toWrite.numBits);
+        }
+        out.writeBits(256, 9);
+        in.close();
+        out.close();
+    }
+
+
+    /**
+     * Class to hold a code for a bit sequence as well as the number of bits
+     * in the code, so that we understand what's going on, even with
+     * leading zeroes.
+     */
+    private record bitCode(short bits, int numBits) { }
+
+    /**
+     * Encodes the first sequence of 8 bits in <code>in</code>.
+     * 
+     * @param in the file to be encoded.
+     * @return the squence's code in a <code>bitCode</code> object.
+     */
+    private bitCode encodeBitSequence(BitInputStream in) {
+        short bits = (short) in.readBits(8);
+        bitCode toWrite = findCode(bits, root.left, (short) 0, 1);
+        if(toWrite.bits < 0) {
+            toWrite = findCode(bits, root, (short) 1, 1);
+        }
+        return toWrite;
+    }
+
+    /**
+     * Recursive helper for <code>encodeBitSequence</code>.
+     * 
+     * @param bits the bit sequence being encoded.
+     * @param curr the node at which we are searching.
+     * @param currCode the bit code for the current node.
+     * @param numBits the number of bits in this node's code.
+     * @return a <code>bitCode</code> object containing the appropriate
+     * code and bit count, or containing -1 and -1 if the bit sequence
+     * was not found.
+     */
+    private bitCode findCode(short bits, Node curr, short currCode, int numBits) {
+        if(curr.bits == bits) {
+            return new bitCode(currCode, numBits);
+        } else if (curr.bits >= 0) {
+            return new bitCode((short) -1, -1);
+        } else {
+            bitCode toWrite = findCode(bits, curr.left, (short) (currCode << 1), numBits + 1);
+            if(toWrite.bits < 0) {
+                toWrite = findCode(bits, curr.right, (short) ((currCode << 1) + 1), numBits + 1);
+            }
+            return toWrite;
+        }
     }
 
     /**
@@ -209,14 +264,15 @@ public class HuffmanTree {
             out.writeBits(bits, 8);
             bits = decodeBitSequence(in);
         }
+        in.close();
         out.close();
     }
 
     /**
-     * Decodes the first Huffman code in in
+     * Decodes the first Huffman code in <code>in</code>.
      * 
-     * @param in the file to read from
-     * @return the bit sequence corresponding to the code read
+     * @param in the file to read from.
+     * @return the bit sequence corresponding to the code read.
      */
     private short decodeBitSequence(BitInputStream in) {
         Node curr = root;

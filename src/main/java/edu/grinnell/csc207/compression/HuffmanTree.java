@@ -152,6 +152,7 @@ public class HuffmanTree {
             }
         }
         this.root = root;
+        return;
     }
 
     /**
@@ -280,9 +281,9 @@ public class HuffmanTree {
         while(curr.bits < 0) {
             bit = in.readBit();
             if(bit == 0) {
-                curr = root.left;
+                curr = curr.left;
             } else {
-                curr = root.right;
+                curr = curr.right;
             }
         }
         return curr.bits;

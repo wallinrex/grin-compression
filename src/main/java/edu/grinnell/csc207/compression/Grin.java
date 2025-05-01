@@ -74,14 +74,14 @@ public class Grin {
             System.out.println("Usage: java Grin <encode|decode> <infile> <outfile>");
             return;
         }
-        if(!args[0].equals("encode") || !args[0].equals("decode")) {
+        if(!args[0].equals("encode") && !args[0].equals("decode")) {
             System.out.println("Usage: java Grin <encode|decode> <infile> <outfile>");
             return;
         }
         if(args[0].equals("encode")) {
-            encode(args[1], args[2]);
+            encode("files/" + args[1], "files/" + args[2]);
         } else {
-            decode(args[1], args[2]);
+            decode("files/" + args[1], "files/" + args[2]);
         }
     }
 }

@@ -194,10 +194,12 @@ public class HuffmanTree {
     public void encode(BitInputStream in, BitOutputStream out) {
         bitCode toWrite;
         while(in.hasBits()) {
-            toWrite = encodeBitSequence(in);
+            short bits = (short) in.readBits(8);
+            toWrite = findCode(bits);
             out.writeBits(toWrite.bits, toWrite.numBits);
         }
-        out.writeBits(256, 9);
+        toWrite = findCode((short) 256);
+        out.writeBits(toWrite.bits, toWrite.numBits);
         in.close();
         out.close();
     }
@@ -211,22 +213,22 @@ public class HuffmanTree {
     private record bitCode(short bits, int numBits) { }
 
     /**
-     * Encodes the first sequence of 8 bits in <code>in</code>.
+     * Finds the bit code for the given bit sequence
      * 
-     * @param in the file to be encoded.
-     * @return the squence's code in a <code>bitCode</code> object.
+     * @param bits the bit sequence being encoded
+     * @return a <code>bitCode</code> object containing the appropriate
+     * code and bit count
      */
-    private bitCode encodeBitSequence(BitInputStream in) {
-        short bits = (short) in.readBits(8);
-        bitCode toWrite = findCode(bits, root.left, (short) 0, 1);
-        if(toWrite.bits < 0) {
-            toWrite = findCode(bits, root, (short) 1, 1);
+    private bitCode findCode(short bits) {
+        bitCode ret = findCodeH(bits, root.left, (short) 0, 1);
+        if(ret.bits < 0) {
+            ret = findCodeH(bits, root, (short) 1, 1);
         }
-        return toWrite;
+        return ret;
     }
 
     /**
-     * Recursive helper for <code>encodeBitSequence</code>.
+     * Recursive helper for <code>findCode</code>.
      * 
      * @param bits the bit sequence being encoded.
      * @param curr the node at which we are searching.
@@ -236,15 +238,15 @@ public class HuffmanTree {
      * code and bit count, or containing -1 and -1 if the bit sequence
      * was not found.
      */
-    private bitCode findCode(short bits, Node curr, short currCode, int numBits) {
+    private bitCode findCodeH(short bits, Node curr, short currCode, int numBits) {
         if(curr.bits == bits) {
             return new bitCode(currCode, numBits);
         } else if (curr.bits >= 0) {
             return new bitCode((short) -1, -1);
         } else {
-            bitCode toWrite = findCode(bits, curr.left, (short) (currCode << 1), numBits + 1);
+            bitCode toWrite = findCodeH(bits, curr.left, (short) (currCode << 1), numBits + 1);
             if(toWrite.bits < 0) {
-                toWrite = findCode(bits, curr.right, (short) ((currCode << 1) + 1), numBits + 1);
+                toWrite = findCodeH(bits, curr.right, (short) ((currCode << 1) + 1), numBits + 1);
             }
             return toWrite;
         }

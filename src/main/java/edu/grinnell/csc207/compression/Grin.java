@@ -11,15 +11,16 @@ public class Grin {
     /**
      * Decodes the .grin file denoted by infile and writes the output to the
      * .grin file denoted by outfile.
-     * @param infile the file to decode
+     * 
+     * @param infile  the file to decode
      * @param outfile the file to ouptut to
      * @throws IOException if either of the files cannot be opened
      */
-    public static void decode (String infile, String outfile) throws IOException {
+    public static void decode(String infile, String outfile) throws IOException {
         BitInputStream in = new BitInputStream(infile);
         BitOutputStream out = new BitOutputStream(outfile);
         int magicNumber = in.readBits(32);
-        if(magicNumber != 1846) {
+        if (magicNumber != 1846) {
             throw new IllegalArgumentException();
         }
         HuffmanTree tree = new HuffmanTree(in);
@@ -30,16 +31,17 @@ public class Grin {
      * Creates a mapping from 8-bit sequences to number-of-occurrences of
      * those sequences in the given file. To do this, read the file using a
      * BitInputStream, consuming 8 bits at a time.
+     * 
      * @param file the file to read
      * @return a freqency map for the given file
      * @throws IOException if the file cannot be opened
      */
-    public static Map<Short, Integer> createFrequencyMap (String file) throws IOException{
+    public static Map<Short, Integer> createFrequencyMap(String file) throws IOException {
         BitInputStream in = new BitInputStream(file);
         Map<Short, Integer> freqs = new HashMap<>();
-        while(in.hasBits()) {
+        while (in.hasBits()) {
             short bits = (short) in.readBits(8);
-            if(freqs.containsKey(bits)) {
+            if (freqs.containsKey(bits)) {
                 freqs.replace(bits, freqs.get(bits) + 1);
             } else {
                 freqs.put(bits, 1);
@@ -51,7 +53,8 @@ public class Grin {
     /**
      * Encodes the given file denoted by infile and writes the output to the
      * .grin file denoted by outfile.
-     * @param infile the file to encode.
+     * 
+     * @param infile  the file to encode.
      * @param outfile the file to write the output to.
      * @throws IOException if either of the files cannot be opened
      */
@@ -66,19 +69,20 @@ public class Grin {
 
     /**
      * The entry point to the program.
+     * 
      * @param args the command-line arguments.
      * @throws IOException if either of the filenames provided can't be opened
      */
     public static void main(String[] args) throws IOException {
-        if(args.length != 3) {
+        if (args.length != 3) {
             System.out.println("Usage: java Grin <encode|decode> <infile> <outfile>");
             return;
         }
-        if(!args[0].equals("encode") && !args[0].equals("decode")) {
+        if (!args[0].equals("encode") && !args[0].equals("decode")) {
             System.out.println("Usage: java Grin <encode|decode> <infile> <outfile>");
             return;
         }
-        if(args[0].equals("encode")) {
+        if (args[0].equals("encode")) {
             encode("files/" + args[1], "files/" + args[2]);
         } else {
             decode("files/" + args[1], "files/" + args[2]);

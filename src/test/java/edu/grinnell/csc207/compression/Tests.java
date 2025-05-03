@@ -7,4 +7,7 @@ public class Tests {
     // the provided .grin files and by encoding then decoding the provided .txt
     // files. I also spent plenty of time going through individual procedures in the
     // debugger to ensure that they worked correctly.
+    // I am fully aware that it isn't quite perfect, but I have no idea why it
+    // encodes an extra character at the end of War and Peace, but not the other
+    // files.
 }

@@ -223,7 +223,7 @@ public class HuffmanTree {
         BitCode ret = findCodeH(bits, root.left, (short) 0, 1);
         if (ret.bits < 0) {
             ret = findCodeH(bits, root, (short) 1, 0);
-            // I have no idea why numBits should be 0 here, but it works
+            // I have no idea why numBits should be 0 here, but it fixed it (mostly)
         }
         return ret;
     }

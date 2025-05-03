@@ -280,10 +280,12 @@ public class HuffmanTree {
      */
     private short decodeBitSequence(BitInputStream in) {
         Node curr = root;
-        int bit;
+        short bit;
         while (curr.bits < 0) {
-            bit = in.readBit();
-            if (bit == 0) {
+            bit = (short) in.readBit();
+            if (bit == -1) {
+                return 256;
+            } else if (bit == 0) {
                 curr = curr.left;
             } else {
                 curr = curr.right;

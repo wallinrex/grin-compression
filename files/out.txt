@@ -1,4 +1,4 @@
-﻿The Project Gutenberg EBook of War and Peace, by Leo Tolstoy
+The Project Gutenberg EBook of War and Peace, by Leo Tolstoy
 
 This eBook is for the use of anyone anywhere at no cost and with almost
 no restrictions whatsoever.  You may copy it, give it away or re-use it
@@ -12,9 +12,9 @@ Author: Leo Tolstoy
 
 Translators: Louise and Aylmer Maude
 
-Posting Date: January 10, 2009 [EBook #2600]
-
-Last Updated: March 15, 2013
+Posting Date: January 10, 009 eehhsu
+dltupr00eehhs,n ot
+Last Updated: March 1, 01
 
 Language: English
 
@@ -29,11 +29,11 @@ An Anonymous Volunteer, and David Widger
 
 WAR AND PEACE
 
-By Leo Tolstoy/Tolstoi
+By Leo TolstoyTolstoi
 
 CONTENTS
 
-BOOK ONE: 1805
+BOOK ONE: 180
 
 CHAPTER I
 
@@ -91,7 +91,7 @@ CHAPTER XXVII
 
 CHAPTER XXVIII
 
-BOOK TWO: 1805
+BOOK TWO: 180
 
 CHAPTER I
 
@@ -135,7 +135,7 @@ CHAPTER XX
 
 CHAPTER XXI
 
-BOOK THREE: 1805
+BOOK THREE: 180
 
 CHAPTER I
 
@@ -175,7 +175,7 @@ CHAPTER XVIII
 
 CHAPTER XIX
 
-BOOK FOUR: 1806
+BOOK FOUR: 180
 
 CHAPTER I
 
@@ -209,7 +209,7 @@ CHAPTER XV
 
 CHAPTER XVI
 
-BOOK FIVE: 1806 - 07
+BOOK FIVE: 180 - 07
 
 CHAPTER I
 
@@ -337,7 +337,7 @@ CHAPTER XII
 
 CHAPTER XIII
 
-BOOK EIGHT: 1811 - 12
+BOOK EIGHT: 1811 - 1
 
 CHAPTER I
 
@@ -383,7 +383,7 @@ CHAPTER XXI
 
 CHAPTER XXII
 
-BOOK NINE: 1812
+BOOK NINE: 181
 
 CHAPTER I
 
@@ -431,7 +431,7 @@ CHAPTER XXII
 
 CHAPTER XXIII
 
-BOOK TEN: 1812
+BOOK TEN: 181
 
 CHAPTER I
 
@@ -511,7 +511,7 @@ CHAPTER XXXVIII
 
 CHAPTER XXXIX
 
-BOOK ELEVEN: 1812
+BOOK ELEVEN: 181
 
 CHAPTER I
 
@@ -581,7 +581,7 @@ CHAPTER XXXIII
 
 CHAPTER XXXIV
 
-BOOK TWELVE: 1812
+BOOK TWELVE: 181
 
 CHAPTER I
 
@@ -615,47 +615,7 @@ CHAPTER XV
 
 CHAPTER XVI
 
-BOOK THIRTEEN: 1812
-
-CHAPTER I
-
-CHAPTER II
-
-CHAPTER III
-
-CHAPTER IV
-
-CHAPTER V
-
-CHAPTER VI
-
-CHAPTER VII
-
-CHAPTER VIII
-
-CHAPTER IX
-
-CHAPTER X
-
-CHAPTER XI
-
-CHAPTER XII
-
-CHAPTER XIII
-
-CHAPTER XIV
-
-CHAPTER XV
-
-CHAPTER XVI
-
-CHAPTER XVII
-
-CHAPTER XVIII
-
-CHAPTER XIX
-
-BOOK FOURTEEN: 1812
+BOOK THIRTEEN: 181
 
 CHAPTER I
 
@@ -695,7 +655,47 @@ CHAPTER XVIII
 
 CHAPTER XIX
 
-BOOK FIFTEEN: 1812 - 13
+BOOK FOURTEEN: 181
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+BOOK FIFTEEN: 181 - 1
 
 CHAPTER I
 
@@ -737,7 +737,7 @@ CHAPTER XIX
 
 CHAPTER XX
 
-FIRST EPILOGUE: 1813 - 20
+FIRST EPILOGUE: 181 - 0
 
 CHAPTER I
 
@@ -797,7 +797,7 @@ CHAPTER XI
 
 CHAPTER XII
 
-BOOK ONE: 1805
+BOOK ONE: 180
 
 
 
@@ -812,7 +812,7 @@ to do with you and you are no longer my friend, no longer my 'faithful
 slave,' as you call yourself! But how do you do? I see I have frightened
 you--sit down and tell me all the news."
 
-It was in July, 1805, and the speaker was the well-known Anna Pavlovna
+It was in July, 180, and the speaker was the well-known Anna Pavlovna
 Scherer, maid of honor and favorite of the Empress Marya Fedorovna. With
 these words she greeted Prince Vasili Kuragin, a man of high rank and
 importance, who was the first to arrive at her reception. Anna Pavlovna
@@ -3027,7 +3027,7 @@ CHAPTER XIV
 After receiving her visitors, the countess was so tired that she gave
 orders to admit no more, but the porter was told to be sure to invite to
 dinner all who came "to congratulate." The countess wished to have a
-tête-à-tête talk with the friend of her childhood, Princess Anna
+tte--tte talk with the friend of her childhood, Princess Anna
 Mikhaylovna, whom she had not seen properly since she returned from
 Petersburg. Anna Mikhaylovna, with her tear-worn but pleasant face, drew
 her chair nearer to that of the countess.
@@ -4012,30 +4012,30 @@ repeated from the opening words of the manifesto:
 to despatch part of the army abroad and to create a new condition for
 the attainment of that purpose.
 
-"Zat, my dear sir, is vy..." he concluded, drinking a tumbler of wine
+"at, my dear sir, is vy..." he concluded, drinking a tumbler of wine
 with dignity and looking to the count for approval.
 
 "Connaissez-vous le Proverbe: * 'Jerome, Jerome, do not roam, but turn
 spindles at home!'?" said Shinshin, puckering his brows and smiling.
-"Cela nous convient a merveille.*(2) Suvorov now--he knew what he was
-about; yet they beat him a plate couture,*(3) and where are we to find
-Suvorovs now? Je vous demande un peu,"*(4) said he, continually changing
+"Cela nous convient a merveille.*() Suvorov now--he knew what he was
+about; yet they beat him a plate couture,*() and where are we to find
+Suvorovs now? Je vous demande un peu,"*() said he, continually changing
 from French to Russian.
 
 
 *Do you know the proverb?
 
-*(2) That suits us down to the ground.
+*() That suits us down to the ground.
 
-*(3) Hollow.
+*() Hollow.
 
-*(4) I just ask you that.
+*() I just ask you that.
 
 "Ve must vight to the last tr-r-op of our plood!" said the colonel,
 thumping the table; "and ve must tie for our Emperor, and zen all vill
 pe vell. And ve must discuss it as little as po-o-ossible"... he dwelt
 particularly on the word possible... "as po-o-ossible," he ended, again
-turning to the count. "Zat is how ve old hussars look at it, and zere's
+turning to the count. "at is how ve old hussars look at it, and zere's
 an end of it! And how do you, a young man and a young hussar, how do you
 judge of it?" he added, addressing Nicholas, who when he heard that the
 war was being discussed had turned from his partner with eyes and ears
@@ -5541,7 +5541,7 @@ rose and with her heavy tread went up to the table. She took a sheet of
 paper and her hand moved rapidly over it. This is the reply she wrote,
 also in French:
 
-Dear and precious Friend, Your letter of the 13th has given me great
+Dear and precious Friend, Your letter of the 1th has given me great
 delight. So you still love me, my romantic Julie? Separation, of which
 you say so much that is bad, does not seem to have had its usual effect
 on you. You complain of our separation. What then should I say, if I
@@ -6290,11 +6290,11 @@ one word after another, came through the open door. She was speaking as
 usual in French, and as if after long self-restraint she wished to make
 up for lost time.
 
-"No, but imagine the old Countess Zubova, with false curls and her mouth
+"No, but imagine the old Countess ubova, with false curls and her mouth
 full of false teeth, as if she were trying to cheat old age.... Ha, ha,
 ha! Mary!"
 
-This very sentence about Countess Zubova and this same laugh Prince
+This very sentence about Countess ubova and this same laugh Prince
 Andrew had already heard from his wife in the presence of others some
 five times. He entered the room softly. The little princess, plump and
 rosy, was sitting in an easy chair with her work in her hands, talking
@@ -6462,20 +6462,20 @@ dressing gown looked out.
 unconscious little princess, he shook his head reprovingly and slammed
 the door.
 
-BOOK TWO: 1805
+BOOK TWO: 180
 
 
 
 
 CHAPTER I
 
-In October, 1805, a Russian army was occupying the villages and towns of
+In October, 180, a Russian army was occupying the villages and towns of
 the Archduchy of Austria, and yet other regiments freshly arriving from
 Russia were settling near the fortress of Braunau and burdening the
 inhabitants on whom they were quartered. Braunau was the headquarters of
 the commander-in-chief, Kutuzov.
 
-On October 11, 1805, one of the infantry regiments that had just reached
+On October 11, 180, one of the infantry regiments that had just reached
 Braunau had halted half a mile from the town, waiting to be inspected by
 the commander-in-chief. Despite the un-Russian appearance of the
 locality and surroundings--fruit gardens, stone fences, tiled roofs, and
@@ -6708,7 +6708,7 @@ was evident that he performed his duty as a subordinate with even
 greater zeal than his duty as a commander. Thanks to the strictness and
 assiduity of its commander the regiment, in comparison with others that
 had reached Braunau at the same time, was in splendid condition. There
-were only 217 sick and stragglers. Everything was in good order except
+were only 17 sick and stragglers. Everything was in good order except
 the boots.
 
 Kutuzov walked through the ranks, sometimes stopping to say a few
@@ -6949,8 +6949,8 @@ marching with the company. The hussar cornet of Kutuzov's suite who had
 mimicked the regimental commander, fell back from the carriage and rode
 up to Dolokhov.
 
-Hussar cornet Zherkov had at one time, in Petersburg, belonged to the
-wild set led by Dolokhov. Zherkov had met Dolokhov abroad as a private
+Hussar cornet herkov had at one time, in Petersburg, belonged to the
+wild set led by Dolokhov. herkov had met Dolokhov abroad as a private
 and had not seen fit to recognize him. But now that Kutuzov had spoken
 to the gentleman ranker, he addressed him with the cordiality of an old
 friend.
@@ -6961,10 +6961,10 @@ horse keep pace with the company.
 "How am I?" Dolokhov answered coldly. "I am as you see."
 
 The lively song gave a special flavor to the tone of free and easy
-gaiety with which Zherkov spoke, and to the intentional coldness of
+gaiety with which herkov spoke, and to the intentional coldness of
 Dolokhov's reply.
 
-"And how do you get on with the officers?" inquired Zherkov.
+"And how do you get on with the officers?" inquired herkov.
 
 "All right. They are good fellows. And how have you wriggled onto the
 staff?"
@@ -6985,7 +6985,7 @@ that song.
 "I'm glad," answered Dolokhov briefly and clearly, as the song demanded.
 
 "I say, come round some evening and we'll have a game of faro!" said
-Zherkov.
+herkov.
 
 "Why, have you too much money?"
 
@@ -7016,7 +7016,7 @@ take it!"
 
 "It's a long, long way. To my native land..."
 
-Zherkov touched his horse with the spurs; it pranced excitedly from foot
+herkov touched his horse with the spurs; it pranced excitedly from foot
 to foot uncertain with which to start, then settled down, galloped past
 the company, and overtook the carriage, still keeping time to the song.
 
@@ -7225,7 +7225,7 @@ could not admit the idea of his hero being disgraced.
 
 Excited and irritated by these thoughts Prince Andrew went toward his
 room to write to his father, to whom he wrote every day. In the corridor
-he met Nesvitski, with whom he shared a room, and the wag Zherkov; they
+he met Nesvitski, with whom he shared a room, and the wag herkov; they
 were as usual laughing.
 
 "Why are you so glum?" asked Nesvitski noticing Prince Andrew's pale
@@ -7233,19 +7233,19 @@ face and glittering eyes.
 
 "There's nothing to be gay about," answered Bolkonski.
 
-Just as Prince Andrew met Nesvitski and Zherkov, there came toward them
+Just as Prince Andrew met Nesvitski and herkov, there came toward them
 from the other end of the corridor, Strauch, an Austrian general who on
 Kutuzov's staff in charge of the provisioning of the Russian army, and
 the member of the Hofkriegsrath who had arrived the previous evening.
 There was room enough in the wide corridor for the generals to pass the
-three officers quite easily, but Zherkov, pushing Nesvitski aside with
+three officers quite easily, but herkov, pushing Nesvitski aside with
 his arm, said in a breathless voice,
 
 "They're coming!... they're coming!... Stand aside, make way, please
 make way!"
 
 The generals were passing by, looking as if they wished to avoid
-embarrassing attentions. On the face of the wag Zherkov there suddenly
+embarrassing attentions. On the face of the wag herkov there suddenly
 appeared a stupid smile of glee which he seemed unable to suppress.
 
 "Your excellency," said he in German, stepping forward and addressing
@@ -7271,22 +7271,22 @@ The general frowned, turned away, and went on.
 
 Nesvitski with a laugh threw his arms round Prince Andrew, but
 Bolkonski, turning still paler, pushed him away with an angry look and
-turned to Zherkov. The nervous irritation aroused by the appearance of
+turned to herkov. The nervous irritation aroused by the appearance of
 Mack, the news of his defeat, and the thought of what lay before the
-Russian army found vent in anger at Zherkov's untimely jest.
+Russian army found vent in anger at herkov's untimely jest.
 
 "If you, sir, choose to make a buffoon of yourself," he said sharply,
 with a slight trembling of the lower jaw, "I can't prevent your doing
 so; but I warn you that if you dare to play the fool in my presence, I
 will teach you to behave yourself."
 
-Nesvitski and Zherkov were so surprised by this outburst that they gazed
+Nesvitski and herkov were so surprised by this outburst that they gazed
 at Bolkonski silently with wide-open eyes.
 
-"What's the matter? I only congratulated them," said Zherkov.
+"What's the matter? I only congratulated them," said herkov.
 
 "I am not jesting with you; please be silent!" cried Bolkonski, and
-taking Nesvitski's arm he left Zherkov, who did not know what to say.
+taking Nesvitski's arm he left herkov, who did not know what to say.
 
 "Come, what's the matter, old fellow?" said Nesvitski trying to soothe
 him.
@@ -7299,16 +7299,16 @@ nothing for their master's business. Quarante mille hommes massacres et
 l'armee de nos allies detruite, et vous trouvez la le mot pour rire," *
 he said, as if strengthening his views by this French sentence. "C'est
 bien pour un garcon de rien comme cet individu dont vous avez fait un
-ami, mais pas pour vous, pas pour vous. *(2) Only a hobbledehoy could
+ami, mais pas pour vous, pas pour vous. *() Only a hobbledehoy could
 amuse himself in this way," he added in Russian--but pronouncing the
-word with a French accent--having noticed that Zherkov could still hear
+word with a French accent--having noticed that herkov could still hear
 him.
 
 
 * "Forty thousand men massacred and the army of our allies destroyed,
 and you find that a cause for jesting!"
 
-* (2) "It is all very well for that good-for-nothing fellow of whom you
+* () "It is all very well for that good-for-nothing fellow of whom you
 have made a friend, but not for you, not for you."
 
 He waited a moment to see whether the cornet would answer, but he turned
@@ -7364,13 +7364,13 @@ greet the young man.
 
 "Schon fleissig?" * said Rostov with the same gay brotherly smile which
 did not leave his eager face. "Hoch Oestreicher! Hoch Russen! Kaiser
-Alexander hoch!" *(2) said he, quoting words often repeated by the
+Alexander hoch!" *() said he, quoting words often repeated by the
 German landlord.
 
 
 * "Busy already?"
 
-* (2) "Hurrah for the Austrians! Hurrah for the Russians! Hurrah for
+* () "Hurrah for the Austrians! Hurrah for the Russians! Hurrah for
 Emperor Alexander!"
 
 The German laughed, came out of the cowshed, pulled off his cap, and
@@ -7886,7 +7886,7 @@ staff captain.
 "Illness or not, he'd better not cwoss my path. I'd kill him!" shouted
 Denisov in a bloodthirsty tone.
 
-Just then Zherkov entered the room.
+Just then herkov entered the room.
 
 "What brings you here?" cried the officers turning to the newcomer.
 
@@ -7910,7 +7910,7 @@ of a hot bath."
 "Oh, my dear fellow, we're in such a stew here these last two days."
 
 The regimental adjutant came in and confirmed the news brought by
-Zherkov. They were under orders to advance next day.
+herkov. They were under orders to advance next day.
 
 "We're going into action, gentlemen!"
 
@@ -7922,7 +7922,7 @@ Zherkov. They were under orders to advance next day.
 CHAPTER VI
 
 Kutuzov fell back toward Vienna, destroying behind him the bridges over
-the rivers Inn (at Braunau) and Traun (near Linz). On October 23 the
+the rivers Inn (at Braunau) and Traun (near Linz). On October  the
 Russian troops were crossing the river Enns. At midday the Russian
 baggage train, the artillery, and columns of troops were defiling
 through the town of Enns on both sides of the bridge.
@@ -8251,7 +8251,7 @@ cords would soon get a bit rubbed," said an infantryman, wiping the mud
 off his face with his sleeve. "Perched up there, you're more like a bird
 than a man."
 
-"There now, Zikin, they ought to put you on a horse. You'd look fine,"
+"There now, ikin, they ought to put you on a horse. You'd look fine,"
 said a corporal, chaffing a thin little soldier who bent under the
 weight of his knapsack.
 
@@ -8383,9 +8383,9 @@ just to punish him--Rostov. Then he imagined how, after the attack,
 Bogdanich would come up to him as he lay wounded and would magnanimously
 extend the hand of reconciliation.
 
-The high-shouldered figure of Zherkov, familiar to the Pavlograds as he
+The high-shouldered figure of herkov, familiar to the Pavlograds as he
 had but recently left their regiment, rode up to the colonel. After his
-dismissal from headquarters Zherkov had not remained in the regiment,
+dismissal from headquarters herkov had not remained in the regiment,
 saying he was not such a fool as to slave at the front when he could get
 more rewards by doing nothing on the staff, and had succeeded in
 attaching himself as an orderly officer to Prince Bagration. He now came
@@ -8401,7 +8401,7 @@ and fire the bridge."
 "but the prince told me to 'go and tell the colonel that the hussars
 must return quickly and fire the bridge.'"
 
-Zherkov was followed by an officer of the suite who rode up to the
+herkov was followed by an officer of the suite who rode up to the
 colonel of hussars with the same order. After him the stout Nesvitski
 came galloping up on a Cossack horse that could scarcely carry his
 weight.
@@ -8426,7 +8426,7 @@ to obey. You said the bridge would be burned, but who would it burn, I
 could not know by the holy spirit!"
 
 "Ah, that's always the way!" said Nesvitski with a wave of the hand.
-"How did you get here?" said he, turning to Zherkov.
+"How did you get here?" said he, turning to herkov.
 
 "On the same business. But you are damp! Let me wring you out!"
 
@@ -8437,7 +8437,7 @@ offended tone.
 the enemy will bring up his guns to use grapeshot."
 
 The colonel looked silently at the officer of the suite, at the stout
-staff officer, and at Zherkov, and he frowned.
+staff officer, and at herkov, and he frowned.
 
 "I will the bridge fire," he said in a solemn tone as if to announce
 that in spite of all the unpleasantness he had to endure he would still
@@ -8496,7 +8496,7 @@ his courage, had ridden on to the planks of the bridge:
 "Oh, every bullet has its billet," answered Vaska Denisov, turning in
 his saddle.
 
-Meanwhile Nesvitski, Zherkov, and the officer of the suite were standing
+Meanwhile Nesvitski, herkov, and the officer of the suite were standing
 together out of range of the shots, watching, now the small group of men
 with yellow shakos, dark-green jackets braided with cord, and blue
 riding breeches, who were swarming near the bridge, and then at what was
@@ -8519,7 +8519,7 @@ grapeshot range now."
 "True enough," answered Nesvitski; "two smart fellows could have done
 the job just as well."
 
-"Ah, your excellency," put in Zherkov, his eyes fixed on the hussars,
+"Ah, your excellency," put in herkov, his eyes fixed on the hussars,
 but still with that naive air that made it impossible to know whether he
 was speaking in jest or in earnest. "Ah, your excellency! How you look
 at things! Send two men? And who then would give us the Vladimir medal
@@ -8612,13 +8612,13 @@ But this sort of thing is the very devil, with them shooting at you like
 a target."
 
 And Denisov rode up to a group that had stopped near Rostov, composed of
-the colonel, Nesvitski, Zherkov, and the officer from the suite.
+the colonel, Nesvitski, herkov, and the officer from the suite.
 
 "Well, it seems that no one has noticed," thought Rostov. And this was
 true. No one had taken any notice, for everyone knew the sensation which
 the cadet under fire for the first time had experienced.
 
-"Here's something for you to report," said Zherkov. "See if I don't get
+"Here's something for you to report," said herkov. "See if I don't get
 promoted to a sublieutenancy."
 
 "Inform the prince that I the bridge fired!" said the colonel
@@ -9338,14 +9338,14 @@ executing of the plan.
 "I am not jesting," Bilibin went on. "Nothing is truer or sadder. These
 gentlemen ride onto the bridge alone and wave white handkerchiefs; they
 assure the officer on duty that they, the marshals, are on their way to
-negotiate with Prince Auersperg. He lets them enter the tête-de-pont. *
+negotiate with Prince Auersperg. He lets them enter the tte-de-pont. *
 They spin him a thousand gasconades, saying that the war is over, that
 the Emperor Francis is arranging a meeting with Bonaparte, that they
 desire to see Prince Auersperg, and so on. The officer sends for
 Auersperg; these gentlemen embrace the officers, crack jokes, sit on the
 cannon, and meanwhile a French battalion gets to the bridge unobserved,
 flings the bags of incendiary material into the water, and approaches
-the tête-de-pont. At length appears the lieutenant general, our dear
+the tte-de-pont. At length appears the lieutenant general, our dear
 Prince Auersperg von Mautern himself. 'Dearest foe! Flower of the
 Austrian army, hero of the Turkish wars Hostilities are ended, we can
 shake one another's hand.... The Emperor Napoleon burns with impatience
@@ -9354,7 +9354,7 @@ Gascons indeed, so bewildered him with fine words, and he is so
 flattered by his rapidly established intimacy with the French marshals,
 and so dazzled by the sight of Murat's mantle and ostrich plumes, qu'il
 n'y voit que du feu, et oublie celui qu'il devait faire faire sur
-l'ennemi!" *(2) In spite of the animation of his speech, Bilibin did not
+l'ennemi!" *() In spite of the animation of his speech, Bilibin did not
 forget to pause after this mot to give time for its due appreciation.
 "The French battalion rushes to the bridgehead, spikes the guns, and the
 bridge is taken! But what is best of all," he went on, his excitement
@@ -9376,7 +9376,7 @@ rascality...."
 
 * Bridgehead.
 
-* (2) That their fire gets into his eyes and he forgets that he ought to
+* () That their fire gets into his eyes and he forgets that he ought to
 be firing at the enemy.
 
 "It may be treachery," said Prince Andrew, vividly imagining the gray
@@ -9602,7 +9602,7 @@ adjutant.
 
 "Where are headquarters?"
 
-"We are to spend the night in Znaim."
+"We are to spend the night in naim."
 
 "Well, I have got all I need into packs for two horses," said Nesvitski.
 "They've made up splendid packs for me--fit to cross the Bohemian
@@ -9745,34 +9745,34 @@ times as strong, who would hem him in from two sides.
 Kutuzov chose this latter course.
 
 The French, the spy reported, having crossed the Vienna bridge, were
-advancing by forced marches toward Znaim, which lay sixty-six miles off
-on the line of Kutuzov's retreat. If he reached Znaim before the French,
+advancing by forced marches toward naim, which lay sixty-six miles off
+on the line of Kutuzov's retreat. If he reached naim before the French,
 there would be great hope of saving the army; to let the French
-forestall him at Znaim meant the exposure of his whole army to a
+forestall him at naim meant the exposure of his whole army to a
 disgrace such as that of Ulm, or to utter destruction. But to forestall
 the French with his whole army was impossible. The road for the French
-from Vienna to Znaim was shorter and better than the road for the
-Russians from Krems to Znaim.
+from Vienna to naim was shorter and better than the road for the
+Russians from Krems to naim.
 
 The night he received the news, Kutuzov sent Bagration's vanguard, four
-thousand strong, to the right across the hills from the Krems-Znaim to
-the Vienna-Znaim road. Bagration was to make this march without resting,
-and to halt facing Vienna with Znaim to his rear, and if he succeeded in
+thousand strong, to the right across the hills from the Krems-naim to
+the Vienna-naim road. Bagration was to make this march without resting,
+and to halt facing Vienna with naim to his rear, and if he succeeded in
 forestalling the French he was to delay them as long as possible.
-Kutuzov himself with all his transport took the road to Znaim.
+Kutuzov himself with all his transport took the road to naim.
 
 Marching thirty miles that stormy night across roadless hills, with his
 hungry, ill-shod soldiers, and losing a third of his men as stragglers
-by the way, Bagration came out on the Vienna-Znaim road at Hollabrunn a
+by the way, Bagration came out on the Vienna-naim road at Hollabrunn a
 few hours ahead of the French who were approaching Hollabrunn from
 Vienna. Kutuzov with his transport had still to march for some days
-before he could reach Znaim. Hence Bagration with his four thousand
+before he could reach naim. Hence Bagration with his four thousand
 hungry, exhausted men would have to detain for days the whole enemy army
 that came upon him at Hollabrunn, which was clearly impossible. But a
 freak of fate made the impossible possible. The success of the trick
 that had placed the Vienna bridge in the hands of the French without a
 fight led Murat to try to deceive Kutuzov in a similar way. Meeting
-Bagration's weak detachment on the Znaim road he supposed it to be
+Bagration's weak detachment on the naim road he supposed it to be
 Kutuzov's whole army. To be able to crush it absolutely he awaited the
 arrival of the rest of the troops who were on their way from Vienna, and
 with this object offered a three days' truce on condition that both
@@ -9789,13 +9789,13 @@ Kutuzov to report the offer he had received.
 A truce was Kutuzov's sole chance of gaining time, giving Bagration's
 exhausted troops some rest, and letting the transport and heavy convoys
 (whose movements were concealed from the French) advance if but one
-stage nearer Znaim. The offer of a truce gave the only, and a quite
+stage nearer naim. The offer of a truce gave the only, and a quite
 unexpected, chance of saving the army. On receiving the news he
 immediately dispatched Adjutant General Wintzingerode, who was in
 attendance on him, to the enemy camp. Wintzingerode was not merely to
 agree to the truce but also to offer terms of capitulation, and
 meanwhile Kutuzov sent his adjutants back to hasten to the utmost the
-movements of the baggage trains of the entire army along the Krems-Znaim
+movements of the baggage trains of the entire army along the Krems-naim
 road. Bagration's exhausted and hungry detachment, which alone covered
 this movement of the transport and of the whole army, had to remain
 stationary in face of an enemy eight times as strong as itself.
@@ -9808,7 +9808,7 @@ Hollabrunn) received Murat's dispatch with the proposal of a truce and a
 capitulation, he detected a ruse and wrote the following letter to
 Murat:
 
-Schonbrunn, 25th Brumaire, 1805,
+Schonbrunn, th Brumaire, 180,
 
 at eight o'clock in the morning
 
@@ -9957,7 +9957,7 @@ The staff officer remained behind and Prince Andrew rode on alone.
 
 The farther forward and nearer the enemy he went, the more orderly and
 cheerful were the troops. The greatest disorder and depression had been
-in the baggage train he had passed that morning on the Znaim road seven
+in the baggage train he had passed that morning on the naim road seven
 miles away from the French. At Grunth also some apprehension and alarm
 could be felt, but the nearer Prince Andrew came to the French lines the
 more confident was the appearance of our troops. The soldiers in their
@@ -10248,7 +10248,7 @@ Bagration, uttering his words with an Oriental accent, spoke
 particularly slowly, as if to impress the fact that there was no need to
 hurry. However, he put his horse to a trot in the direction of Tushin's
 battery. Prince Andrew followed with the suite. Behind Prince Bagration
-rode an officer of the suite, the prince's personal adjutant, Zherkov,
+rode an officer of the suite, the prince's personal adjutant, herkov,
 an orderly officer, the staff officer on duty, riding a fine bobtailed
 horse, and a civilian--an accountant who had asked permission to be
 present at the battle out of curiosity. The accountant, a stout, full-
@@ -10257,11 +10257,11 @@ presented a strange appearance among the hussars, Cossacks, and
 adjutants, in his camlet coat, as he jolted on his horse with a convoy
 officer's saddle.
 
-"He wants to see a battle," said Zherkov to Bolkonski, pointing to the
+"He wants to see a battle," said herkov to Bolkonski, pointing to the
 accountant, "but he feels a pain in the pit of his stomach already."
 
 "Oh, leave off!" said the accountant with a beaming but rather cunning
-smile, as if flattered at being made the subject of Zherkov's joke, and
+smile, as if flattered at being made the subject of herkov's joke, and
 purposely trying to appear stupider than he really was.
 
 "It is very strange, mon Monsieur Prince," said the staff officer. (He
@@ -10273,7 +10273,7 @@ struck the ground in front of them.
 
 "What's that that has fallen?" asked the accountant with a naive smile.
 
-"A French pancake," answered Zherkov.
+"A French pancake," answered herkov.
 
 "So that's what they hit with?" asked the accountant. "How awful!"
 
@@ -10281,7 +10281,7 @@ He seemed to swell with satisfaction. He had hardly finished speaking
 when they again heard an unexpectedly violent whistling which suddenly
 ended with a thud into something soft... f-f-flop! and a Cossack, riding
 a little to their right and behind the accountant, crashed to earth with
-his horse. Zherkov and the staff officer bent over their saddles and
+his horse. herkov and the staff officer bent over their saddles and
 turned their horses away. The accountant stopped, facing the Cossack,
 and examined him with attentive curiosity. The Cossack was dead, but the
 horse still struggled.
@@ -10330,7 +10330,7 @@ balls at the village of Schon Grabern visible just opposite, in front of
 which large masses of French were advancing.
 
 No one had given Tushin orders where and at what to fire, but after
-consulting his sergeant major, Zakharchenko, for whom he had great
+consulting his sergeant major, akharchenko, for whom he had great
 respect, he had decided that it would be a good thing to set fire to the
 village. "Very good!" said Bagration in reply to the officer's report,
 and began deliberately to examine the whole battlefield extended before
@@ -10361,7 +10361,7 @@ so had hastened to throw some sharpshooters into the wood.
 
 As he was leaving the battery, firing was heard on the left also, and as
 it was too far to the left flank for him to have time to go there
-himself, Prince Bagration sent Zherkov to tell the general in command
+himself, Prince Bagration sent herkov to tell the general in command
 (the one who had paraded his regiment before Kutuzov at Braunau) that he
 must retreat as quickly as possible behind the hollow in the rear, as
 the right flank would probably not be able to withstand the enemy's
@@ -10554,10 +10554,10 @@ of the dip in the ground at the rear was hurried and noisy, but the
 different companies did not get mixed. But our left--which consisted of
 the Azov and Podolsk infantry and the Pavlograd hussars--was
 simultaneously attacked and outflanked by superior French forces under
-Lannes and was thrown into confusion. Bagration had sent Zherkov to the
+Lannes and was thrown into confusion. Bagration had sent herkov to the
 general commanding that left flank with orders to retreat immediately.
 
-Zherkov, not removing his hand from his cap, turned his horse about and
+herkov, not removing his hand from his cap, turned his horse about and
 galloped off. But no sooner had he left Bagration than his courage
 failed him. He was seized by panic and could not go where it was
 dangerous.
@@ -10998,7 +10998,7 @@ cannonade was dying down, but the rattle of musketry behind and on the
 right sounded oftener and nearer. As soon as Tushin with his guns,
 continually driving round or coming upon wounded men, was out of range
 of fire and had descended into the dip, he was met by some of the staff,
-among them the staff officer and Zherkov, who had been twice sent to
+among them the staff officer and herkov, who had been twice sent to
 Tushin's battery but had never reached it. Interrupting one another,
 they all gave, and transmitted, orders as to how to proceed,
 reprimanding and reproaching him. Tushin gave no orders, and, silently--
@@ -11160,7 +11160,7 @@ officers who had gathered at his quarters. The little old man with the
 half-closed eyes was there greedily gnawing a mutton bone, and the
 general who had served blamelessly for twenty-two years, flushed by a
 glass of vodka and the dinner; and the staff officer with the signet
-ring, and Zherkov, uneasily glancing at them all, and Prince Andrew,
+ring, and herkov, uneasily glancing at them all, and Prince Andrew,
 pale, with compressed lips and feverishly glittering eyes.
 
 In a corner of the hut stood a standard captured from the French, and
@@ -11194,11 +11194,11 @@ the ranks, took a French officer prisoner in my presence and
 particularly distinguished himself."
 
 "I saw the Pavlograd hussars attack there, your excellency," chimed in
-Zherkov, looking uneasily around. He had not seen the hussars all that
+herkov, looking uneasily around. He had not seen the hussars all that
 day, but had heard about them from an infantry officer. "They broke up
 two squares, your excellency."
 
-Several of those present smiled at Zherkov's words, expecting one of his
+Several of those present smiled at herkov's words, expecting one of his
 usual jokes, but noticing that what he was saying redounded to the glory
 of our arms and of the day's work, they assumed a serious expression,
 though many of them knew that what he was saying was a lie devoid of any
@@ -11234,7 +11234,7 @@ sight of his superiors, he did not notice the staff of the banner and
 stumbled over it. Several of those present laughed.
 
 "How was it a gun was abandoned?" asked Bagration, frowning, not so much
-at the captain as at those who were laughing, among whom Zherkov laughed
+at the captain as at those who were laughing, among whom herkov laughed
 loudest.
 
 Only now, when he was confronted by the stern authorities, did his guilt
@@ -11325,7 +11325,7 @@ I come here?" he wondered.
 Next day the French army did not renew their attack, and the remnant of
 Bagration's detachment was reunited to Kutuzov's army.
 
-BOOK THREE: 1805
+BOOK THREE: 180
 
 
 
@@ -11490,7 +11490,7 @@ remarks came out clever and apt. Now everything Pierre said was
 charmant. Even if Anna Pavlovna did not say so, he could see that she
 wished to and only refrained out of regard for his modesty.
 
-In the beginning of the winter of 1805-6 Pierre received one of Anna
+In the beginning of the winter of 180- Pierre received one of Anna
 Pavlovna's usual pink notes with an invitation to which was added: "You
 will find the beautiful Helene here, whom it is always delightful to
 see."
@@ -11658,7 +11658,7 @@ image rose in all its womanly beauty.
 
 CHAPTER II
 
-In November, 1805, Prince Vasili had to go on a tour of inspection in
+In November, 180, Prince Vasili had to go on a tour of inspection in
 four different provinces. He had arranged this for himself so as to
 visit his neglected estates at the same time and pick up his son Anatole
 where his regiment was stationed, and take him to visit Prince Nicholas
@@ -12006,7 +12006,7 @@ of a wife who was a celebrated beauty and of millions of money.
 CHAPTER III
 
 Old Prince Nicholas Bolkonski received a letter from Prince Vasili in
-November, 1805, announcing that he and his son would be paying him a
+November, 180, announcing that he and his son would be paying him a
 visit. "I am starting on a journey of inspection, and of course I shall
 think nothing of an extra seventy miles to come and see you at the same
 time, my honored benefactor," wrote Prince Vasili. "My son Anatole is
@@ -13796,7 +13796,7 @@ Kutuzov, where he inquired for Bolkonski, all the adjutants and even the
 orderlies looked at him as if they wished to impress on him that a great
 many officers like him were always coming there and that everybody was
 heartily sick of them. In spite of this, or rather because of it, next
-day, November 15, after dinner he again went to Olmutz and, entering the
+day, November 1, after dinner he again went to Olmutz and, entering the
 house occupied by Kutuzov, asked for Bolkonski. Prince Andrew was in and
 Boris was shown into a large hall probably formerly used for dancing,
 but in which five beds now stood, and furniture of various kinds: a
@@ -14289,7 +14289,7 @@ in the common motion the result and aim of which are beyond its ken.
 Just as in a clock, the result of the complicated motion of innumerable
 wheels and pulleys is merely a slow and regular movement of the hands
 which show the time, so the result of all the complicated human
-activities of 160,000 Russians and French--all their passions, desires,
+activities of 10,000 Russians and French--all their passions, desires,
 remorse, humiliations, sufferings, outbursts of pride, fear, and
 enthusiasm--was only the loss of the battle of Austerlitz, the so-called
 battle of the three Emperors--that is to say, a slow movement of the
@@ -14464,7 +14464,7 @@ loud, monotonous voice began to read out the dispositions for the
 impending battle, under a heading which he also read out:
 
 "Dispositions for an attack on the enemy position behind Kobelnitz and
-Sokolnitz, November 30, 1805."
+Sokolnitz, November 0, 180."
 
 The dispositions were very complicated and difficult. They began as
 follows:
@@ -15713,7 +15713,7 @@ understood what was happening as little as he did.
 
 "May the devil take them--the traitors!"
 
-"Zum Henker diese Russen!" * muttered a German.
+"um Henker diese Russen!" * muttered a German.
 
 
 * "Hang these Russians!"
@@ -16204,14 +16204,14 @@ Larrey, was much more likely to end in death than in convalescence.
 And Prince Andrew, with others fatally wounded, was left to the care of
 the inhabitants of the district.
 
-BOOK FOUR: 1806
+BOOK FOUR: 180
 
 
 
 
 CHAPTER I
 
-Early in the year 1806 Nicholas Rostov returned home on leave. Denisov
+Early in the year 180 Nicholas Rostov returned home on leave. Denisov
 was going home to Voronezh and Rostov persuaded him to travel with him
 as far as Moscow and to stay with him there. Meeting a comrade at the
 last post station but one before Moscow, Denisov had drunk three bottles
@@ -16231,8 +16231,8 @@ sleigh.
 
 Denisov gave no answer.
 
-"There's the corner at the crossroads, where the cabman, Zakhar, has his
-stand, and there's Zakhar himself and still the same horse! And here's
+"There's the corner at the crossroads, where the cabman, akhar, has his
+stand, and there's akhar himself and still the same horse! And here's
 the little shop where we used to buy gingerbread! Can't you hurry up?
 Now then!"
 
@@ -18033,7 +18033,7 @@ friend's influence.
 
 In the autumn the Rostovs returned to Moscow. Early in the winter
 Denisov also came back and stayed with them. The first half of the
-winter of 1806, which Nicholas Rostov spent in Moscow, was one of the
+winter of 180, which Nicholas Rostov spent in Moscow, was one of the
 happiest, merriest times for him and the whole family. Nicholas brought
 many young men to his parents' house. Vera was a handsome girl of
 twenty; Sonya a girl of sixteen with all the charm of an opening flower;
@@ -18097,7 +18097,7 @@ always in love with someone," he thought of Sonya and Natasha. But he
 was not as much at ease with Sonya and Dolokhov as before and was less
 frequently at home.
 
-In the autumn of 1806 everybody had again begun talking of the war with
+In the autumn of 180 everybody had again begun talking of the war with
 Napoleon with even greater warmth than the year before. Orders were
 given to raise recruits, ten men in every thousand for the regular army,
 and besides this, nine men in every thousand for the militia. Everywhere
@@ -18978,7 +18978,7 @@ sent Dolokhov the whole forty-three thousand rubles and received his
 receipt, he left at the end of November, without taking leave of any of
 his acquaintances, to overtake his regiment which was already in Poland.
 
-BOOK FIVE: 1806 - 07
+BOOK FIVE: 180 - 07
 
 
 
@@ -19571,9 +19571,9 @@ that was good.
 Half an hour later, the Rhetor returned to inform the seeker of the
 seven virtues, corresponding to the seven steps of Solomon's temple,
 which every Freemason should cultivate in himself. These virtues were:
-1. Discretion, the keeping of the secrets of the Order. 2. Obedience to
-those of higher ranks in the Order. 3. Morality. 4. Love of mankind. 5.
-Courage. 6. Generosity. 7. The love of death.
+1. Discretion, the keeping of the secrets of the Order. . Obedience to
+those of higher ranks in the Order. . Morality. . Love of mankind. .
+Courage. . Generosity. 7. The love of death.
 
 "In the seventh place, try, by the frequent thought of death," the
 Rhetor said, "to bring yourself to regard it not as a dreaded foe, but
@@ -19932,7 +19932,7 @@ interesting person to the visitors and that nowhere else was the state
 of the political thermometer of legitimate Petersburg court society so
 dearly and distinctly indicated.
 
-Toward the end of 1806, when all the sad details of Napoleon's
+Toward the end of 180, when all the sad details of Napoleon's
 destruction of the Prussian army at Jena and Auerstadt and the surrender
 of most of the Prussian fortresses had been received, when our troops
 had already entered Prussia and our second war with Napoleon was
@@ -20157,9 +20157,9 @@ heard curses on Bonaparte, "the enemy of mankind." Militiamen and
 recruits were being enrolled in the villages, and from the seat of war
 came contradictory news, false as usual and therefore variously
 interpreted. The life of old Prince Bolkonski, Prince Andrew, and
-Princess Mary had greatly changed since 1805.
+Princess Mary had greatly changed since 180.
 
-In 1806 the old prince was made one of the eight commanders in chief
+In 180 the old prince was made one of the eight commanders in chief
 then appointed to supervise the enrollment decreed throughout Russia.
 Despite the weakness of age, which had become particularly noticeable
 since the time when he thought his son had been killed, he did not think
@@ -20203,12 +20203,12 @@ After the Austerlitz campaign Prince Andrew had firmly resolved not to
 continue his military service, and when the war recommenced and
 everybody had to serve, he took a post under his father in the
 recruitment so as to avoid active service. The old prince and his son
-seemed to have changed roles since the campaign of 1805. The old man,
+seemed to have changed roles since the campaign of 180. The old man,
 roused by activity, expected the best results from the new campaign,
 while Prince Andrew on the contrary, taking no part in the war and
 secretly regretting this, saw only the dark side.
 
-On February 26, 1807, the old prince set off on one of his circuits.
+On February , 1807, the old prince set off on one of his circuits.
 Prince Andrew remained at Bald Hills as usual during his father's
 absence. Little Nicholas had been unwell for four days. The coachman who
 had driven the old prince to town returned bringing papers and letters
@@ -20377,7 +20377,7 @@ Kamenski the latter was preferred. The general comes to us, Suvorov-
 like, in a kibitka, and is received with acclamations of joy and
 triumph.
 
-"On the 4th, the first courier arrives from Petersburg. The mails are
+"On the th, the first courier arrives from Petersburg. The mails are
 taken to the field marshal's room, for he likes to do everything
 himself. I am called in to help sort the letters and take those meant
 for us. The field marshal looks on and waits for letters addressed to
@@ -20566,9 +20566,9 @@ allowance of ten thousand rubles. He had a dim perception of the
 following budget:
 
 About 80,000 went in payments on all the estates to the Land Bank, about
-30,000 went for the upkeep of the estate near Moscow, the town house,
-and the allowance to the three princesses; about 15,000 was given in
-pensions and the same amount for asylums; 150,000 alimony was sent to
+0,000 went for the upkeep of the estate near Moscow, the town house,
+and the allowance to the three princesses; about 1,000 was given in
+pensions and the same amount for asylums; 10,000 alimony was sent to
 the countess; about 70,000 went for interest on debts. The building of a
 new church, previously begun, had cost about 10,000 in each of the last
 two years, and he did not know how the rest, about 100,000 rubles, was
@@ -21271,19 +21271,19 @@ smile at the young pilgrim.
 "Andrew!" said Princess Mary, imploringly. "Il faut que vous sachiez que
 c'est une femme," * said Prince Andrew to Pierre.
 
-"Andrew, au nom de Dieu!" *(2) Princess Mary repeated.
+"Andrew, au nom de Dieu!" *() Princess Mary repeated.
 
 
 * "You must know that this is a woman."
 
-* (2) "For heaven's sake."
+* () "For heaven's sake."
 
 It was evident that Prince Andrew's ironical tone toward the pilgrims
 and Princess Mary's helpless attempts to protect them were their
 customary long-established relations on the matter.
 
 "Mais, ma bonne amie," said Prince Andrew, "vous devriez au contraire
-m'être reconnaissante de ce que j'explique a Pierre votre intimité avec
+m'tre reconnaissante de ce que j'explique a Pierre votre intimit avec
 ce jeune homme." *
 
 
@@ -21560,7 +21560,7 @@ and Preussisch-Eylau, was concentrated near Bartenstein. It was awaiting
 the Emperor's arrival and the beginning of a new campaign.
 
 The Pavlograd regiment, belonging to that part of the army which had
-served in the 1805 campaign, had been recruiting up to strength in
+served in the 180 campaign, had been recruiting up to strength in
 Russia, and arrived too late to take part in the first actions of the
 campaign. It had been neither at Pultusk nor at Preussisch-Eylau and,
 when it joined the army in the field in the second half of the campaign,
@@ -22213,19 +22213,19 @@ latter knew his face, and all those at court, far from cold-shouldering
 him as at first when they considered him a newcomer, would now have been
 surprised had he been absent.
 
-Boris lodged with another adjutant, the Polish Count Zhilinski.
-Zhilinski, a Pole brought up in Paris, was rich, and passionately fond
+Boris lodged with another adjutant, the Polish Count hilinski.
+hilinski, a Pole brought up in Paris, was rich, and passionately fond
 of the French, and almost every day of the stay at Tilsit, French
 officers of the Guard and from French headquarters were dining and
 lunching with him and Boris.
 
-On the evening of the twenty-fourth of June, Count Zhilinski arranged a
+On the evening of the twenty-fourth of June, Count hilinski arranged a
 supper for his French friends. The guest of honor was an aide-de-camp of
 Napoleon's, there were also several French officers of the Guard, and a
 page of Napoleon's, a young lad of an old aristocratic French family.
 That same day, Rostov, profiting by the darkness to avoid being
 recognized in civilian dress, came to Tilsit and went to the lodging
-occupied by Boris and Zhilinski.
+occupied by Boris and hilinski.
 
 Rostov, in common with the whole army from which he came, was far from
 having experienced the change of feeling toward Napoleon and the French-
@@ -22274,11 +22274,11 @@ led him into the room where the supper table was laid and introduced him
 to his guests, explaining that he was not a civilian, but an hussar
 officer, and an old friend of his.
 
-"Count Zhilinski--le Comte N. N.--le Capitaine S. S.," said he, naming
+"Count hilinski--le Comte N. N.--le Capitaine S. S.," said he, naming
 his guests. Rostov looked frowningly at the Frenchmen, bowed
 reluctantly, and remained silent.
 
-Zhilinski evidently did not receive this new Russian person very
+hilinski evidently did not receive this new Russian person very
 willingly into his circle and did not speak to Rostov. Boris did not
 appear to notice the constraint the newcomer produced and, with the same
 pleasant composure and the same veiled look in his eyes with which he
@@ -22330,7 +22330,7 @@ Boris smiled.
 
 "On the contrary, I will do what I can. Only I thought..."
 
-At that moment Zhilinski's voice was heard calling Boris.
+At that moment hilinski's voice was heard calling Boris.
 
 "Well then, go, go, go..." said Rostov, and refusing supper and
 remaining alone in the little room, he walked up and down for a long
@@ -22345,7 +22345,7 @@ Rostov had come to Tilsit the day least suitable for a petition on
 Denisov's behalf. He could not himself go to the general in attendance
 as he was in mufti and had come to Tilsit without permission to do so,
 and Boris, even had he wished to, could not have done so on the
-following day. On that day, June 27, the preliminaries of peace were
+following day. On that day, June 7, the preliminaries of peace were
 signed. The Emperors exchanged decorations: Alexander received the Cross
 of the Legion of Honor and Napoleon the Order of St. Andrew of the First
 Degree, and a dinner had been arranged for the evening, given by a
@@ -22646,7 +22646,7 @@ and next day Napoleon. Tomorrow our Emperor will send a St. George's
 Cross to the bravest of the French Guards. It has to be done. He must
 respond in kind."
 
-Boris, too, with his friend Zhilinski, came to see the Preobrazhensk
+Boris, too, with his friend hilinski, came to see the Preobrazhensk
 banquet. On his way back, he noticed Rostov standing by the corner of a
 house.
 
@@ -23097,7 +23097,7 @@ the Emperor and that the latter disliked his face and personality
 generally, and in the cold, repellent glance the Emperor gave him, he
 now found further confirmation of this surmise. The courtiers explained
 the Emperor's neglect of him by His Majesty's displeasure at Bolkonski's
-not having served since 1805.
+not having served since 180.
 
 "I know myself that one cannot help one's sympathies and antipathies,"
 thought Prince Andrew, "so it will not do to present my proposal for the
@@ -23451,7 +23451,7 @@ of nothing.
 
 As he had done on their first meeting at Kochubey's, Speranski produced
 a strong impression on Prince Andrew on the Wednesday, when he received
-him tête-à-tête at his own house and talked to him long and
+him tte--tte at his own house and talked to him long and
 confidentially.
 
 To Bolkonski so many people appeared contemptible and insignificant
@@ -23782,8 +23782,8 @@ my rupture with the Brothers. Joseph Alexeevich, having remained silent
 and thoughtful for a good while, told me his view of the matter, which
 at once lit up for me my whole past and the future path I should follow.
 He surprised me by asking whether I remembered the threefold aim of the
-order: (1) The preservation and study of the mystery. (2) The
-purification and reformation of oneself for its reception, and (3) The
+order: (1) The preservation and study of the mystery. () The
+purification and reformation of oneself for its reception, and () The
 improvement of the human race by striving for such purification. Which
 is the principal aim of these three? Certainly self-reformation and
 self-purification. Only to this aim can we always strive independently
@@ -23801,8 +23801,8 @@ perfecting himself. We often think that by removing all the difficulties
 of our life we shall more quickly reach our aim, but on the contrary, my
 dear sir, it is only in the midst of worldly cares that we can attain
 our three chief aims: (1) Self-knowledge--for man can only know himself
-by comparison, (2) Self-perfecting, which can only be attained by
-conflict, and (3) The attainment of the chief virtue--love of death.
+by comparison, () Self-perfecting, which can only be attained by
+conflict, and () The attainment of the chief virtue--love of death.
 Only the vicissitudes of life can show us its vanity and develop our
 innate love of death or of rebirth to a new life." These words are all
 the more remarkable because, in spite of his great physical sufferings,
@@ -23819,7 +23819,7 @@ personally above all to keep a watch over myself, and to that end he
 gave me a notebook, the one I am now writing in and in which I will in
 future note down all my actions.
 
-Petersburg, 23rd November
+Petersburg, rd November
 
 I am again living with my wife. My mother-in-law came to me in tears and
 said that Helene was here and that she implored me to hear her; that she
@@ -23862,7 +23862,7 @@ animal." * Her success as a beautiful and elegant woman did not surprise
 Pierre, for she had become even handsomer than before. What did surprise
 him was that during these last two years his wife had succeeded in
 gaining the reputation "d' une femme charmante, aussi spirituelle que
-belle." *(2) The distinguished Prince de Ligne wrote her eight-page
+belle." *() The distinguished Prince de Ligne wrote her eight-page
 letters. Bilibin saved up his epigrams to produce them in Countess
 Bezukhova's presence. To be received in the Countess Bezukhova's salon
 was regarded as a diploma of intellect. Young men read books before
@@ -23884,7 +23884,7 @@ profound meaning in it of which she herself had no conception.
 
 * "That's a superb animal."
 
-* (2) "Of a charming woman, as witty as she is lovely."
+* () "Of a charming woman, as witty as she is lovely."
 
 Pierre was just the husband needed for a brilliant society woman. He was
 that absent-minded crank, a grand seigneur husband who was in no one's
@@ -23945,7 +23945,7 @@ CHAPTER X
 Pierre went on with his diary, and this is what he wrote in it during
 that time:
 
-24th November
+th November
 
 Got up at eight, read the Scriptures, then went to my duties. (By Joseph
 Alexeevich's advice Pierre had entered the service of the state and
@@ -23958,11 +23958,11 @@ laughed loudly at it.
 
 I am going to bed with a happy and tranquil mind. Great God, help me to
 walk in Thy paths, (1) to conquer anger by calmness and deliberation,
-(2) to vanquish lust by self-restraint and repulsion, (3) to withdraw
+() to vanquish lust by self-restraint and repulsion, () to withdraw
 from worldliness, but not avoid (a) the service of the state, (b) family
 duties, (c) relations with my friends, and the management of my affairs.
 
-27th November
+7th November
 
 I got up late. On waking I lay long in bed yielding to sloth. O God,
 help and strengthen me that I may walk in Thy ways! Read the Scriptures,
@@ -24019,7 +24019,7 @@ which it attracts mercury, seizes it, holds it, and in combination
 produces other bodies. Mercury is a fluid, volatile, spiritual essence.
 Christ, the Holy Spirit, Him!...
 
-3rd December
+rd December
 
 Awoke late, read the Scriptures but was apathetic. Afterwards went and
 paced up and down the large hall. I wished to meditate, but instead my
@@ -24280,7 +24280,7 @@ mentioning. But in the secret depths of her soul the question whether
 her engagement to Boris was a jest or an important, binding promise
 tormented her.
 
-Since Boris left Moscow in 1805 to join the army he had not seen the
+Since Boris left Moscow in 180 to join the army he had not seen the
 Rostovs. He had been in Moscow several times, and had passed near
 Otradnoe, but had never been to see them.
 
@@ -26069,7 +26069,7 @@ wonder at how it had all happened, and at the evident omens there had
 been of it: Prince Andrew's coming to Otradnoe and their coming to
 Petersburg, and the likeness between Natasha and Prince Andrew which her
 nurse had noticed on his first visit, and Andrew's encounter with
-Nicholas in 1805, and many other incidents betokening that it had to be.
+Nicholas in 180, and many other incidents betokening that it had to be.
 
 In the house that poetic dullness and quiet reigned which always
 accompanies the presence of a betrothed couple. Often when all sitting
@@ -26934,7 +26934,7 @@ scare away the beast, Daniel'll give it you!"
 "Hush!" whispered the count and turned to Simon. "Have you seen the
 young countess?" he asked. "Where is she?"
 
-"With young Count Peter, by the Zharov rank grass," answered Simon,
+"With young Count Peter, by the harov rank grass," answered Simon,
 smiling. "Though she's a lady, she's very fond of hunting."
 
 "And you're surprised at the way she rides, Simon, eh?" said the count.
@@ -26951,7 +26951,7 @@ what would please his master.
 "Rides well, eh? And how well he looks on his horse, eh?"
 
 "A perfect picture! How he chased a fox out of the rank grass by the
-Zavarzinsk thicket the other day! Leaped a fearful place; what a sight
+avarzinsk thicket the other day! Leaped a fearful place; what a sight
 when they rushed from the covert... the horse worth a thousand rubles
 and the rider beyond all price! Yes, one would have to search far to
 find another as smart."
@@ -28434,7 +28434,7 @@ Natasha, Sonya, Madame Schoss, and two maids got into Nicholas' sleigh;
 Dimmler, his wife, and Petya, into the old count's, and the rest of the
 mummers seated themselves in the other two sleighs.
 
-"You go ahead, Zakhar!" shouted Nicholas to his father's coachman,
+"You go ahead, akhar!" shouted Nicholas to his father's coachman,
 wishing for a chance to race past him.
 
 The old count's troyka, with Dimmler and his party, started forward,
@@ -28478,7 +28478,7 @@ increased their pace. The near side horse, arching his head and breaking
 into a short canter, tugged at his traces. The shaft horse swayed from
 side to side, moving his ears as if asking: "Isn't it time to begin
 now?" In front, already far ahead the deep bell of the sleigh ringing
-farther and farther off, the black horses driven by Zakhar could be
+farther and farther off, the black horses driven by akhar could be
 clearly seen against the white snow. From that sleigh one could hear the
 shouts, laughter, and voices of the mummers.
 
@@ -28502,21 +28502,21 @@ meadow nor the Demkin hill, and heaven only knows what it is! It is
 something new and enchanted. Well, whatever it may be..." And shouting
 to his horses, he began to pass the first sleigh.
 
-Zakhar held back his horses and turned his face, which was already
+akhar held back his horses and turned his face, which was already
 covered with hoarfrost to his eyebrows.
 
-Nicholas gave the horses the rein, and Zakhar, stretching out his arms,
+Nicholas gave the horses the rein, and akhar, stretching out his arms,
 clucked his tongue and let his horses go.
 
 "Now, look out, master!" he cried.
 
 Faster still the two troykas flew side by side, and faster moved the
-feet of the galloping side horses. Nicholas began to draw ahead. Zakhar,
+feet of the galloping side horses. Nicholas began to draw ahead. akhar,
 while still keeping his arms extended, raised one hand with the reins.
 
 "No you won't, master!" he shouted.
 
-Nicholas put all his horses to a gallop and passed Zakhar. The horses
+Nicholas put all his horses to a gallop and passed akhar. The horses
 showered the fine dry snow on the faces of those in the sleigh--beside
 them sounded quick ringing bells and they caught confused glimpses of
 swiftly moving legs and the shadows of the troyka they were passing. The
@@ -28527,7 +28527,7 @@ Again checking his horses, Nicholas looked around him. They were still
 surrounded by the magic plain bathed in moonlight and spangled with
 stars.
 
-"Zakhar is shouting that I should turn to the left, but why to the
+"akhar is shouting that I should turn to the left, but why to the
 left?" thought Nicholas. "Are we getting to the Melyukovs'? Is this
 Melyukovka? Heaven only knows where we are going, and heaven knows what
 is happening to us--but it is very strange and pleasant whatever it is."
@@ -29028,7 +29028,7 @@ winter, and Natasha felt sure he had already arrived.
 So the countess remained in the country, and the count, taking Sonya and
 Natasha with him, went to Moscow at the end of January.
 
-BOOK EIGHT: 1811 - 12
+BOOK EIGHT: 1811 - 1
 
 
 
@@ -29368,7 +29368,7 @@ Mademoiselle Bourienne's advice had allowed this doctor to visit him and
 had grown accustomed to him. Metivier came to see the prince about twice
 a week.
 
-On December 6--St. Nicholas' Day and the prince's name day--all Moscow
+On December --St. Nicholas' Day and the prince's name day--all Moscow
 came to the prince's front door but he gave orders to admit no one and
 to invite to dinner only a small number, a list of whom he gave to
 Princess Mary.
@@ -30120,7 +30120,7 @@ princess told the count that she would be delighted, and only begged him
 to stay longer at Anna Semenovna's, and he departed.
 
 Despite the uneasy glances thrown at her by Princess Mary--who wished to
-have a tête-à-tête with Natasha--Mademoiselle Bourienne remained in the
+have a tte--tte with Natasha--Mademoiselle Bourienne remained in the
 room and persistently talked about Moscow amusements and theaters.
 Natasha felt offended by the hesitation she had noticed in the anteroom,
 by her father's nervousness, and by the unnatural manner of the princess
@@ -32162,7 +32162,7 @@ usual. The members who were assembling for dinner were sitting about in
 groups; they greeted Pierre and spoke of the town news. The footman
 having greeted him, knowing his habits and his acquaintances, told him
 there was a place left for him in the small dining room and that Prince
-Michael Zakharych was in the library, but Paul Timofeevich had not yet
+Michael akharych was in the library, but Paul Timofeevich had not yet
 arrived. One of Pierre's acquaintances, while they were talking about
 the weather, asked if he had heard of Kuragin's abduction of Rostova
 which was talked of in the town, and was it true? Pierre laughed and
@@ -32283,7 +32283,7 @@ honor I can't allow anyone to use."
 Pierre glanced at him with amazement, unable to understand what he
 wanted.
 
-"Though it was tête-à-tête," Anatole continued, "still I can't..."
+"Though it was tte--tte," Anatole continued, "still I can't..."
 
 "Is it satisfaction you want?" said Pierre ironically.
 
@@ -32615,7 +32615,7 @@ sky presented itself to his eyes. Almost in the center of it, above the
 Prechistenka Boulevard, surrounded and sprinkled on all sides by stars
 but distinguished from them all by its nearness to the earth, its white
 light, and its long uplifted tail, shone the enormous and brilliant
-comet of 1812--the comet which was said to portend all kinds of woes and
+comet of 181--the comet which was said to portend all kinds of woes and
 the end of the world. In Pierre, however, that comet with its long
 luminous tail aroused no feeling of fear. On the contrary he gazed
 joyfully, his eyes moist with tears, at this bright comet which, having
@@ -32626,7 +32626,7 @@ displaying its white light amid countless other scintillating stars. It
 seemed to Pierre that this comet fully responded to what was passing in
 his own softened and uplifted soul, now blossoming into a new life.
 
-BOOK NINE: 1812
+BOOK NINE: 181
 
 
 
@@ -32634,10 +32634,10 @@ BOOK NINE: 1812
 CHAPTER I
 
 From the close of the year 1811 intensified arming and concentrating of
-the forces of Western Europe began, and in 1812 these forces--millions
+the forces of Western Europe began, and in 181 these forces--millions
 of men, reckoning those transporting and feeding the army--moved from
 the west eastwards to the Russian frontier, toward which since 1811
-Russian forces had been similarly drawn. On the twelfth of June, 1812,
+Russian forces had been similarly drawn. On the twelfth of June, 181,
 the forces of Western Europe crossed the Russian frontier and war began,
 that is, an event took place opposed to human reason and to human
 nature. Millions of men perpetrated against one another such innumerable
@@ -32759,7 +32759,7 @@ A king is history's slave.
 History, that is, the unconscious, general, hive life of mankind, uses
 every moment of the life of kings as a tool for its own purposes.
 
-Though Napoleon at that time, in 1812, was more convinced than ever that
+Though Napoleon at that time, in 181, was more convinced than ever that
 it depended on him, verser (ou ne pas verser) le sang de ses peuples *--
 as Alexander expressed it in the last letter he wrote him--he had never
 been so much in the grip of inevitable laws, which compelled him, while
@@ -32989,7 +32989,7 @@ subscription. The lady who was thought to be most pleasing to the
 Emperor was invited to act as hostess. Count Bennigsen, being a
 landowner in the Vilna province, offered his country house for the fete,
 and the thirteenth of June was fixed for a ball, dinner, regatta, and
-fireworks at Zakret, Count Bennigsen's country seat.
+fireworks at akret, Count Bennigsen's country seat.
 
 The very day that Napoleon issued the order to cross the Niemen, and his
 vanguard, driving off the Cossacks, crossed the Russian frontier,
@@ -33890,7 +33890,7 @@ poisoned the artificial tranquillity which he managed to obtain in
 Turkey by means of restless, plodding, and rather vainglorious and
 ambitious activity.
 
-In the year 1812, when news of the war with Napoleon reached Bucharest--
+In the year 181, when news of the war with Napoleon reached Bucharest--
 where Kutuzov had been living for two months, passing his days and
 nights with a Wallachian woman--Prince Andrew asked Kutuzov to transfer
 him to the Western Army. Kutuzov, who was already weary of Bolkonski's
@@ -34259,7 +34259,7 @@ found, especially around young sovereigns, and of whom there were
 particularly many round Alexander--generals and imperial aides-de-camp
 passionately devoted to the Emperor, not merely as a monarch but as a
 man, adoring him sincerely and disinterestedly, as Rostov had done in
-1805, and who saw in him not only all the virtues but all human
+180, and who saw in him not only all the virtues but all human
 capabilities as well. These men, though enchanted with the sovereign for
 refusing the command of the army, yet blamed him for such excessive
 modesty, and only desired and insisted that their adored sovereign
@@ -34398,7 +34398,7 @@ At first sight, Pfuel, in his ill-made uniform of a Russian general,
 which fitted him badly like a fancy costume, seemed familiar to Prince
 Andrew, though he saw him now for the first time. There was about him
 something of Weyrother, Mack, and Schmidt, and many other German
-theorist-generals whom Prince Andrew had seen in 1805, but he was more
+theorist-generals whom Prince Andrew had seen in 180, but he was more
 typical than any of them. Prince Andrew had never yet seen a German
 theorist in whom all the characteristics of those others were united to
 such an extent.
@@ -34455,7 +34455,7 @@ which so many blunders were committed by both sides that these wars
 could not be called wars, they did not accord with the theory, and
 therefore could not serve as material for science.
 
-In 1806 Pfuel had been one of those responsible, for the plan of
+In 180 Pfuel had been one of those responsible, for the plan of
 campaign that ended in Jena and Auerstadt, but he did not see the least
 proof of the fallibility of his theory in the disasters of that war. On
 the contrary, the deviations made from his theory were, in his opinion,
@@ -34598,7 +34598,7 @@ theory arrived at by years of toil, should be carried out. He was
 ridiculous, and unpleasantly sarcastic, but yet he inspired involuntary
 respect by his boundless devotion to an idea. Besides this, the remarks
 of all except Pfuel had one common trait that had not been noticeable at
-the council of war in 1805: there was now a panic fear of Napoleon's
+the council of war in 180: there was now a panic fear of Napoleon's
 genius, which, though concealed, was noticeable in every rejoinder.
 Everything was assumed to be possible for Napoleon, they expected him
 from every side, and invoked his terrible name to shatter each other's
@@ -34758,7 +34758,7 @@ On the thirteenth of July the Pavlograds took part in a serious action
 for the first time.
 
 On the twelfth of July, on the eve of that action, there was a heavy
-storm of rain and hail. In general, the summer of 1812 was remarkable
+storm of rain and hail. In general, the summer of 181 was remarkable
 for its storms.
 
 The two Pavlograd squadrons were bivouacking on a field of rye, which
@@ -34783,19 +34783,19 @@ relation to Nicholas that Nicholas had been to Denisov seven years
 before. Ilyin tried to imitate Rostov in everything and adored him as a
 girl might have done.
 
-Zdrzhinski, the officer with the long mustache, spoke grandiloquently of
+drzhinski, the officer with the long mustache, spoke grandiloquently of
 the Saltanov dam being "a Russian Thermopylae," and of how a deed worthy
 of antiquity had been performed by General Raevski. He recounted how
 Raevski had led his two sons onto the dam under terrific fire and had
 charged with them beside him. Rostov heard the story and not only said
-nothing to encourage Zdrzhinski's enthusiasm but, on the contrary,
+nothing to encourage drzhinski's enthusiasm but, on the contrary,
 looked like a man ashamed of what he was hearing, though with no
 intention of contradicting it. Since the campaigns of Austerlitz and of
 1807 Rostov knew by experience that men always lie when describing
 military exploits, as he himself had done when recounting them; besides
 that, he had experience enough to know that nothing happens in war at
-all as we can imagine or relate it. And so he did not like Zdrzhinski's
-tale, nor did he like Zdrzhinski himself who, with his mustaches
+all as we can imagine or relate it. And so he did not like drzhinski's
+tale, nor did he like drzhinski himself who, with his mustaches
 extending over his cheeks, bent low over the face of his hearer, as was
 his habit, and crowded Rostov in the narrow shanty. Rostov looked at him
 in silence. "In the first place, there must have been such a confusion
@@ -34811,17 +34811,17 @@ Thermopylae. So why should he have made such a sacrifice? And why expose
 his own children in the battle? I would not have taken my brother Petya
 there, or even Ilyin, who's a stranger to me but a nice lad, but would
 have tried to put them somewhere under cover," Nicholas continued to
-think, as he listened to Zdrzhinski. But he did not express his
+think, as he listened to drzhinski. But he did not express his
 thoughts, for in such matters, too, he had gained experience. He knew
 that this tale redounded to the glory of our arms and so one had to
 pretend not to doubt it. And he acted accordingly.
 
 "I can't stand this any more," said Ilyin, noticing that Rostov did not
-relish Zdrzhinski's conversation. "My stockings and shirt... and the
+relish drzhinski's conversation. "My stockings and shirt... and the
 water is running on my seat! I'll go and look for shelter. The rain
 seems less heavy."
 
-Ilyin went out and Zdrzhinski rode away.
+Ilyin went out and drzhinski rode away.
 
 Five minutes later Ilyin, splashing through the mud, came running back
 to the shanty.
@@ -35334,7 +35334,7 @@ The symptoms of Natasha's illness were that she ate little, slept
 little, coughed, and was always low-spirited. The doctors said that she
 could not get on without medical treatment, so they kept her in the
 stifling atmosphere of the town, and the Rostovs did not move to the
-country that summer of 1812.
+country that summer of 181.
 
 In spite of the many pills she swallowed and the drops and powders out
 of the little bottles and boxes of which Madame Schoss who was fond of
@@ -35722,7 +35722,7 @@ impatiently sought everywhere for signs of that approaching catastrophe.
 One of his brother Masons had revealed to Pierre the following prophecy
 concerning Napoleon, drawn from the Revelation of St. John.
 
-In chapter 13, verse 18, of the Apocalypse, it is said:
+In chapter 1, verse 18, of the Apocalypse, it is said:
 
 Here is wisdom. Let him that hath understanding count the number of the
 beast: for it is the number of a man; and his number is Six hundred
@@ -35739,37 +35739,37 @@ Hebrew, in which the first nine letters denote units and the others
 tens, will have the following significance:
 
 
-a   b   c   d   e   f   g   h   i   k 1   2   3   4   5   6   7   8   9
-10 l    m    n    o    p    q    r    s 20   30   40   50   60   70   80
-90 t    u    v    w    x    y 100  110  120  130  140  150 z 160
+a   b   c   d   e   f   g   h   i   k 1                  7   8   9
+10 l    m    n    o    p    q    r    s 0   0   0   0   0   70   80
+90 t    u    v    w    x    y 100  110  10  10  10  10 z 10
 
 Writing the words L'Empereur Napoleon in numbers, it appears that the
-sum of them is 666, and that Napoleon was therefore the beast foretold
+sum of them is , and that Napoleon was therefore the beast foretold
 in the Apocalypse. Moreover, by applying the same system to the words
 quarante-deux, * which was the term allowed to the beast that "spoke
-great things and blasphemies," the same number 666 was obtained; from
+great things and blasphemies," the same number  was obtained; from
 which it followed that the limit fixed for Napoleon's power had come in
-the year 1812 when the French emperor was forty-two. This prophecy
+the year 181 when the French emperor was forty-two. This prophecy
 pleased Pierre very much and he often asked himself what would put an
 end to the power of the beast, that is, of Napoleon, and tried by the
 same system of using letters as numbers and adding them up, to find an
 answer to the question that engrossed him. He wrote the words L'Empereur
 Alexandre, La nation russe and added up their numbers, but the sums were
-either more or less than 666. Once when making such calculations he
+either more or less than . Once when making such calculations he
 wrote down his own name in French, Comte Pierre Besouhoff, but the sum
 of the numbers did not come right. Then he changed the spelling,
 substituting a z for the s and adding de and the article le, still
 without obtaining the desired result. Then it occurred to him: if the
 answer to the question were contained in his name, his nationality would
 also be given in the answer. So he wrote Le russe Besuhof and adding up
-the numbers got 671. This was only five too much, and five was
+the numbers got 71. This was only five too much, and five was
 represented by e, the very letter elided from the article le before the
 word Empereur. By omitting the e, though incorrectly, Pierre got the
-answer he sought. L'russe Besuhof made 666. This discovery excited him.
+answer he sought. L'russe Besuhof made . This discovery excited him.
 How, or by what means, he was connected with the great event foretold in
 the Apocalypse he did not know, but he did not doubt that connection for
 a moment. His love for Natasha, Antichrist, Napoleon, the invasion, the
-comet, 666, L'Empereur Napoleon, and L'russe Besuhof--all this had to
+comet, , L'Empereur Napoleon, and L'russe Besuhof--all this had to
 mature and culminate, to lift him out of that spellbound, petty sphere
 of Moscow habits in which he felt himself held captive and lead him to a
 great achievement and great happiness.
@@ -35819,7 +35819,7 @@ saw the great mass of Muscovites who had donned uniform and were talking
 patriotism, he somehow felt ashamed to take the step. But the chief
 reason for not carrying out his intention to enter the army lay in the
 vague idea that he was L'russe Besuhof who had the number of the beast,
-666; that his part in the great affair of setting a limit to the power
+; that his part in the great affair of setting a limit to the power
 of the beast that spoke great and blasphemous things had been
 predestined from eternity, and that therefore he ought not to undertake
 anything, but wait for what was bound to come to pass.
@@ -36373,7 +36373,7 @@ themselves to someone younger. On all these faces, as on the faces of
 the crowd Petya had seen in the Square, there was a striking
 contradiction: the general expectation of a solemn event, and at the
 same time the everyday interests in a boston card party, Peter the cook,
-Zinaida Dmitrievna's health, and so on.
+inaida Dmitrievna's health, and so on.
 
 Pierre was there too, buttoned up since early morning in a nobleman's
 uniform that had become too tight for him. He was agitated; this
@@ -36659,7 +36659,7 @@ their uniforms and settled down again in their homes and clubs, and not
 without some groans gave orders to their stewards about the enrollment,
 feeling amazed themselves at what they had done.
 
-BOOK TEN: 1812
+BOOK TEN: 181
 
 
 
@@ -36686,7 +36686,7 @@ concealed from them but comprehensible to us. Such is the inevitable
 fate of men of action, and the higher they stand in the social hierarchy
 the less are they free.
 
-The actors of 1812 have long since left the stage, their personal
+The actors of 181 have long since left the stage, their personal
 interests have vanished leaving no trace, and nothing remains of that
 time but its historic results.
 
@@ -36695,7 +36695,7 @@ further the accomplishment of a stupendous result no one of them at all
 expected--neither Napoleon, nor Alexander, nor still less any of those
 who did the actual fighting.
 
-The cause of the destruction of the French army in 1812 is clear to us
+The cause of the destruction of the French army in 181 is clear to us
 now. No one will deny that that cause was, on the one hand, its advance
 into the heart of Russia late in the season without any preparation for
 a winter campaign and, on the other, the character given to the war by
@@ -36711,7 +36711,7 @@ despite Napoleon's experience and so-called military genius, every
 effort was directed to pushing on to Moscow at the end of the summer,
 that is, to doing the very thing that was bound to lead to destruction.
 
-In historical works on the year 1812 French writers are very fond of
+In historical works on the year 181 French writers are very fond of
 saying that Napoleon felt the danger of extending his line, that he
 sought a battle and that his marshals advised him to stop at Smolensk,
 and of making similar statements to show that the danger of the campaign
@@ -37186,7 +37186,7 @@ as it had done then. He recalled all the words spoken at that first
 meeting with Potemkin. And he saw before him a plump, rather sallow-
 faced, short, stout woman, the Empress Mother, with her smile and her
 words at her first gracious reception of him, and then that same face on
-the catafalque, and the encounter he had with Zubov over her coffin
+the catafalque, and the encounter he had with ubov over her coffin
 about his right to kiss her hand.
 
 "Oh, quicker, quicker! To get back to that time and have done with all
@@ -37379,7 +37379,7 @@ to his inn. The paper handed to him by the Governor said this:
 "I assure you that the town of Smolensk is not in the slightest danger
 as yet and it is unlikely that it will be threatened with any. I from
 the one side and Prince Bagration from the other are marching to unite
-our forces before Smolensk, which junction will be effected on the 22nd
+our forces before Smolensk, which junction will be effected on the nd
 instant, and both armies with their united forces will defend our
 compatriots of the province entrusted to your care till our efforts
 shall have beaten back the enemies of our Fatherland, or till the last
@@ -37387,7 +37387,7 @@ warrior in our valiant ranks has perished. From this you will see that
 you have a perfect right to reassure the inhabitants of Smolensk, for
 those defended by two such brave armies may feel assured of victory."
 (Instructions from Barclay de Tolly to Baron Asch, the civil governor of
-Smolensk, 1812.)
+Smolensk, 181.)
 
 People were anxiously roaming about the streets.
 
@@ -37959,7 +37959,7 @@ life one may discriminate between those in which substance prevails and
 those in which form prevails. To the latter--as distinguished from
 village, country, provincial, or even Moscow life--we may allot
 Petersburg life, and especially the life of its salons. That life of the
-salons is unchanging. Since the year 1805 we had made peace and had
+salons is unchanging. Since the year 180 we had made peace and had
 again quarreled with Bonaparte and had made constitutions and unmade
 them again, but the salons of Anna Pavlovna and Helene remained just as
 they had been--the one seven and the other five years before. At Anna
@@ -37969,7 +37969,7 @@ European sovereigns a malicious conspiracy, the sole object of which was
 to cause unpleasantness and anxiety to the court circle of which Anna
 Pavlovna was the representative. And in Helene's salon, which Rumyantsev
 himself honored with his visits, regarding Helene as a remarkably
-intelligent woman, they talked with the same ecstasy in 1812 as in 1808
+intelligent woman, they talked with the same ecstasy in 181 as in 1808
 of the "great nation" and the "great man," and regretted our rupture
 with France, a rupture which, according to them, ought to be promptly
 terminated by peace.
@@ -38148,7 +38148,7 @@ manipulates lifeless objects, but everything results from innumerable
 conflicts of various wills!
 
 After Smolensk Napoleon sought a battle beyond Dorogobuzh at Vyazma, and
-then at Tsarevo-Zaymishche, but it happened that owing to a conjunction
+then at Tsarevo-aymishche, but it happened that owing to a conjunction
 of innumerable circumstances the Russians could not give battle till
 they reached Borodino, seventy miles from Moscow. From Vyazma Napoleon
 ordered a direct advance on Moscow.
@@ -38156,7 +38156,7 @@ ordered a direct advance on Moscow.
 Moscou, la capitale asiatique de ce grand empire, la ville sacree des
 peuples d'Alexandre, Moscou avec ses innombrables eglises en forme de
 pagodes chinoises, * this Moscow gave Napoleon's imagination no rest. On
-the march from Vyazma to Tsarevo-Zaymishche he rode his light bay
+the march from Vyazma to Tsarevo-aymishche he rode his light bay
 bobtailed ambler accompanied by his Guards, his bodyguard, his pages,
 and aides-de-camp. Berthier, his chief of staff, dropped behind to
 question a Russian prisoner captured by the cavalry. Followed by
@@ -38682,7 +38682,7 @@ hunger on the road, many returned of their own accord, and the movement
 died down of itself just as it had sprung up, without apparent reason.
 But such undercurrents still existed among the people and gathered new
 forces ready to manifest themselves just as strangely, unexpectedly, and
-at the same time simply, naturally, and forcibly. Now in 1812, to anyone
+at the same time simply, naturally, and forcibly. Now in 181, to anyone
 living in close touch with these people it was apparent that these
 undercurrents were acting strongly and nearing an eruption.
 
@@ -39554,7 +39554,7 @@ fierce blow jerked his head to one side.
 "Caps off, traitors!" shouted Rostov in a wrathful voice. "Where's the
 Elder?" he cried furiously.
 
-"The Elder.... He wants the Elder!... Dron Zakharych, you!" meek and
+"The Elder.... He wants the Elder!... Dron akharych, you!" meek and
 flustered voices here and there were heard calling and caps began to
 come off their heads.
 
@@ -39707,7 +39707,7 @@ CHAPTER XV
 On receiving command of the armies Kutuzov remembered Prince Andrew and
 sent an order for him to report at headquarters.
 
-Prince Andrew arrived at Tsarevo-Zaymishche on the very day and at the
+Prince Andrew arrived at Tsarevo-aymishche on the very day and at the
 very hour that Kutuzov was reviewing the troops for the first time. He
 stopped in the village at the priest's house in front of which stood the
 commander-in-chief's carriage, and he sat down on the bench at the gate
@@ -39925,7 +39925,7 @@ with the cross at the church, and she intends to welcome him in the
 house.... She's very pretty," added the adjutant with a smile. At those
 words Kutuzov looked round. He was listening to the general's report--
 which consisted chiefly of a criticism of the position at Tsarevo-
-Zaymishche--as he had listened to Denisov, and seven years previously
+aymishche--as he had listened to Denisov, and seven years previously
 had listened to the discussion at the Austerlitz council of war. He
 evidently listened only because he had ears which, though there was a
 piece of tow in one of them, could not help hearing; but it was evident
@@ -40061,13 +40061,13 @@ do?" he asked, evidently expecting an answer. "Well, what do you want us
 to do?" he repeated and his eye shone with a deep, shrewd look. "I'll
 tell you what to do," he continued, as Prince Andrew still did not
 reply: "I will tell you what to do, and what I do. Dans le doute, mon
-cher," he paused, "abstiens-toi" *(2)--he articulated the French proverb
+cher," he paused, "abstiens-toi" *()--he articulated the French proverb
 deliberately.
 
 
 * "Don't see it that way, that's the trouble."
 
-* (2) "When in doubt, my dear fellow, do nothing."
+* () "When in doubt, my dear fellow, do nothing."
 
 "Well, good-by, my dear fellow; remember that with all my heart I share
 your sorrow, and that for you I am not a Serene Highness, nor a prince,
@@ -40629,7 +40629,7 @@ hazard.
 Not only did the Russians not fortify the position on the field of
 Borodino to the left of, and at a right angle to, the highroad (that is,
 the position on which the battle took place), but never till the twenty-
-fifth of August, 1812, did they think that a battle might be fought
+fifth of August, 181, did they think that a battle might be fought
 there. This was shown first by the fact that there were no entrenchments
 there by the twenty fifth and that those begun on the twenty-fifth and
 twenty-sixth were not completed, and secondly, by the position of the
@@ -40922,7 +40922,7 @@ there over the whole of that blue expanse, to right and left of the
 forest and the road, smoking campfires could be seen and indefinite
 masses of troops--ours and the enemy's. The ground to the right--along
 the course of the Kolocha and Moskva rivers--was broken and hilly.
-Between the hollows the villages of Bezubova and Zakharino showed in the
+Between the hollows the villages of Bezubova and akharino showed in the
 distance. On the left the ground was more level; there were fields of
 grain, and the smoking ruins of Semenovsk, which had been burned down,
 could be seen.
@@ -41363,7 +41363,7 @@ matter to the commander-in-chief.
 
 CHAPTER XXIV
 
-On that bright evening of August 25, Prince Andrew lay leaning on his
+On that bright evening of August , Prince Andrew lay leaning on his
 elbow in a broken-down shed in the village of Knyazkovo at the further
 end of his regiment's encampment. Through a gap in the broken wall he
 could see, beside the wooden fence, a row of thirty year-old birches
@@ -41644,7 +41644,7 @@ Preis geben," * said one of them.
 * "The war must be extended widely. I cannot sufficiently commend that
 view."
 
-"Oh, ja," said the other, "der Zweck ist nur den Feind zu schwächen, so
+"Oh, ja," said the other, "der weck ist nur den Feind zu schwchen, so
 kann man gewiss nicht den Verlust der Privat-Personen in Achtung
 nehmen." *
 
@@ -41696,7 +41696,7 @@ sensibility of a lady who faints when she sees a calf being killed: she
 is so kindhearted that she can't look at blood, but enjoys eating the
 calf served up with sauce. They talk to us of the rules of war, of
 chivalry, of flags of truce, of mercy to the unfortunate and so on. It's
-all rubbish! I saw chivalry and flags of truce in 1805; they humbugged
+all rubbish! I saw chivalry and flags of truce in 180; they humbugged
 us and we humbugged them. They plunder other people's houses, issue
 false paper money, and worst of all they kill my children and my father,
 and then talk of rules of war and magnanimity to foes! Take no
@@ -41800,7 +41800,7 @@ pacing up and down in front of the shed.
 
 CHAPTER XXVI
 
-On August 25, the eve of the battle of Borodino, M. de Beausset, prefect
+On August , the eve of the battle of Borodino, M. de Beausset, prefect
 of the French Emperor's palace, arrived at Napoleon's quarters at
 Valuevo with Colonel Fabvier, the former from Paris and the latter from
 Madrid.
@@ -42037,14 +42037,14 @@ fire, and overwhelm with shellfire the enemy's battery, against which
 will operate:
 
 
-24 guns of the artillery of the Guards 30 guns of Campan's division
+ guns of the artillery of the Guards 0 guns of Campan's division
 
 and     8 guns of Friant's and Dessaix's divisions --
 
-in all 62 guns.
+in all  guns.
 
-The commander of the artillery of the 3rd Corps, General Fouche, will
-place the howitzers of the 3rd and 8th Corps, sixteen in all, on the
+The commander of the artillery of the rd Corps, General Fouche, will
+place the howitzers of the rd and 8th Corps, sixteen in all, on the
 flanks of the battery that is to bombard the entrenchment on the left,
 which will have forty guns in all directed against it.
 
@@ -42076,7 +42076,7 @@ methode) as far as possible retaining troops in reserve.
 
 The Imperial Camp near Mozhaysk,
 
-September, 6, 1812.
+September, , 181.
 
 These dispositions, which are very obscure and confused if one allows
 oneself to regard the arrangements without religious awe of his genius,
@@ -42085,10 +42085,10 @@ orders. Not one of these was, or could be, carried out.
 
 In the disposition it is said first that the batteries placed on the
 spot chosen by Napoleon, with the guns of Pernetti and Fouche; which
-were to come in line with them, 102 guns in all, were to open fire and
+were to come in line with them, 10 guns in all, were to open fire and
 shower shells on the Russian fleches and redoubts. This could not be
 done, as from the spots selected by Napoleon the projectiles did not
-carry to the Russian works, and those 102 guns shot into the air until
+carry to the Russian works, and those 10 guns shot into the air until
 the nearest commander, contrary to Napoleon's instructions, moved them
 forward.
 
@@ -44057,7 +44057,7 @@ five hundred thousand men, and the downfall of Napoleonic France, on
 which at Borodino for the first time the hand of an opponent of stronger
 spirit had been laid.
 
-BOOK ELEVEN: 1812
+BOOK ELEVEN: 181
 
 
 
@@ -44599,7 +44599,7 @@ while the poorer remained and burned and destroyed what was left.
 The consciousness that this would be so and would always be so was and
 is present in the heart of every Russian. And a consciousness of this,
 and a foreboding that Moscow would be taken, was present in Russian
-Moscow society in 1812. Those who had quitted Moscow already in July and
+Moscow society in 181. Those who had quitted Moscow already in July and
 at the beginning of August showed that they expected this. Those who
 went away, taking what they could and abandoning their houses and half
 their belongings, did so from the latent patriotism which expresses
@@ -46822,14 +46822,14 @@ all Frenchmen unable to imagine anything sentimental without a reference
 to ma chere, ma tendre, ma pauvre mere * --he decided that he would
 place an inscription on all these establishments in large letters: "This
 establishment is dedicated to my dear mother." Or no, it should be
-simply: Maison de ma Mere, *(2) he concluded. "But am I really in
+simply: Maison de ma Mere, *() he concluded. "But am I really in
 Moscow? Yes, here it lies before me, but why is the deputation from the
 city so long in appearing?" he wondered.
 
 
 * "My dear, my tender, my poor mother."
 
-* (2) "House of my Mother."
+* () "House of my Mother."
 
 Meanwhile an agitated consultation was being carried on in whispers
 among his generals and marshals at the rear of his suite. Those sent to
@@ -47339,7 +47339,7 @@ a man in a frieze coat who held a paper in his hand.
 "An ukase, they are reading an ukase! Reading an ukase!" cried voices in
 the crowd, and the people rushed toward the reader.
 
-The man in the frieze coat was reading the broadsheet of August 31. When
+The man in the frieze coat was reading the broadsheet of August 1. When
 the crowd collected round him he seemed confused, but at the demand of
 the tall lad who had pushed his way up to him, he began in a rather
 tremulous voice to read the sheet from the beginning.
@@ -47457,7 +47457,7 @@ All the horrors of the reign of terror were based only on solicitude for
 public tranquillity.
 
 On what, then, was Count Rostopchin's fear for the tranquillity of
-Moscow based in 1812? What reason was there for assuming any probability
+Moscow based in 181? What reason was there for assuming any probability
 of an uprising in the city? The inhabitants were leaving it and the
 retreating troops were filling it. Why should that cause the masses to
 riot?
@@ -48046,7 +48046,7 @@ The gate was again hidden by smoke.
 Nothing more stirred behind the screens and the French infantry soldiers
 and officers advanced to the gate. In the gateway lay three wounded and
 four dead. Two men in peasant coats ran away at the foot of the wall,
-toward the Znamenka.
+toward the namenka.
 
 "Clear that away!" said the officer, pointing to the beams and the
 corpses, and the French soldiers, after dispatching the wounded, threw
@@ -48449,7 +48449,7 @@ melodramatically gentle expression and he held out his hand.
 
 For a Frenchman that deduction was indubitable. Only a Frenchman could
 perform a great deed, and to save his life--the life of M. Ramballe,
-captain of the 13th Light Regiment--was undoubtedly a very great deed.
+captain of the 1th Light Regiment--was undoubtedly a very great deed.
 
 But however indubitable that conclusion and the officer's conviction
 based upon it, Pierre felt it necessary to disillusion him.
@@ -48524,7 +48524,7 @@ word) in the officer's voice, in the expression of his face and in his
 gestures, that Pierre, unconsciously smiling in response to the
 Frenchman's smile, pressed the hand held out to him.
 
-"Captain Ramballe, of the 13th Light Regiment, Chevalier of the Legion
+"Captain Ramballe, of the 1th Light Regiment, Chevalier of the Legion
 of Honor for the affair on the seventh of September," he introduced
 himself, a self-satisfied irrepressible smile puckering his lips under
 his mustache. "Will you now be so good as to tell me with whom I have
@@ -49904,10 +49904,10 @@ streets the patrol arrested five more Russian suspects: a small
 shopkeeper, two seminary students, a peasant, and a house serf, besides
 several looters. But of all these various suspected characters, Pierre
 was considered to be the most suspicious of all. When they had all been
-brought for the night to a large house on the Zubov Rampart that was
+brought for the night to a large house on the ubov Rampart that was
 being used as a guardhouse, Pierre was placed apart under strict guard.
 
-BOOK TWELVE: 1812
+BOOK TWELVE: 181
 
 
 
@@ -50196,12 +50196,12 @@ The Emperor at once received this messenger in his study at the palace
 on Stone Island. Michaud, who had never seen Moscow before the campaign
 and who did not know Russian, yet felt deeply moved (as he wrote) when
 he appeared before notre tres gracieux souverain * with the news of the
-burning of Moscow, dont les flammes eclairaient sa route. *(2)
+burning of Moscow, dont les flammes eclairaient sa route. *()
 
 
 * Our most gracious sovereign.
 
-* (2) Whose flames illumined his route.
+* () Whose flames illumined his route.
 
 Though the source of M. Michaud's chagrin must have been different from
 that which caused Russians to grieve, he had such a sad face when shown
@@ -50449,7 +50449,7 @@ that Catherine Petrovna would play valses and the ecossaise on the
 clavichord and that there would be dancing, and so everyone had come as
 to a ball.
 
-Provincial life in 1812 went on very much as usual, but with this
+Provincial life in 181 went on very much as usual, but with this
 difference, that it was livelier in the towns in consequence of the
 arrival of many wealthy families from Moscow, and as in everything that
 went on in Russia at that time a special recklessness was noticeable, an
@@ -51255,7 +51255,7 @@ Again he replied that he could not answer it.
 "Put that down, that's bad... very bad," sternly remarked the general
 with the white mustache and red flushed face.
 
-On the fourth day fires broke out on the Zubovski rampart.
+On the fourth day fires broke out on the ubovski rampart.
 
 Pierre and thirteen others were moved to the coach house of a merchant's
 house near the Crimean bridge. On his way through the streets Pierre
@@ -51290,7 +51290,7 @@ marshal. An hour later a squad of soldiers arrived and Pierre with
 thirteen others was led to the Virgin's Field. It was a fine day, sunny
 after rain, and the air was unusually pure. The smoke did not hang low
 as on the day when Pierre had been taken from the guardhouse on the
-Zubovski rampart, but rose through the pure air in columns. No flames
+ubovski rampart, but rose through the pure air in columns. No flames
 were seen, but columns of smoke rose on all sides, and all Moscow as far
 as Pierre could see was one vast charred ruin. On all sides there were
 waste spaces with only stoves and chimney stacks still standing, and
@@ -51520,7 +51520,7 @@ were in his own heart. "But who, after all, is doing this? They are all
 suffering as I am. Who then is it? Who?" flashed for an instant through
 his mind.
 
-"Sharpshooters of the 86th, forward!" shouted someone. The fifth
+"Sharpshooters of the 8th, forward!" shouted someone. The fifth
 prisoner, the one next to Pierre, was led away--alone. Pierre did not
 understand that he was saved, that he and the rest had been brought
 there only to witness the execution. With ever-growing horror, and no
@@ -52640,7 +52640,7 @@ had taken possession of their souls at the consciousness of the simple
 and solemn mystery of death that had been accomplished in their
 presence.
 
-BOOK THIRTEEN: 1812
+BOOK THIRTEEN: 181
 
 
 
@@ -52679,7 +52679,7 @@ earth.
 
 The historians consider that, next to the battle of Borodino and the
 occupation of Moscow by the enemy and its destruction by fire, the most
-important episode of the war of 1812 was the movement of the Russian
+important episode of the war of 181 was the movement of the Russian
 army from the Ryazana to the Kaluga road and to the Tarutino camp--the
 so-called flank march across the Krasnaya Pakhra River. They ascribe the
 glory of that achievement of genius to different men and dispute as to
@@ -52693,7 +52693,7 @@ of this movement lay, for not much mental effort was needed to see that
 the best position for an army when it is not being attacked is where
 there are most provisions; and even a dull boy of thirteen could have
 guessed that the best position for an army after its retreat from Moscow
-in 1812 was on the Kaluga road. So it is impossible to understand by
+in 181 was on the Kaluga road. So it is impossible to understand by
 what reasoning the historians reach the conclusion that this maneuver
 was a profound one. And it is even more difficult to understand just why
 they think that this maneuver was calculated to save Russia and destroy
@@ -52808,14 +52808,14 @@ Napoleon, with his usual assurance that whatever entered his head was
 right, wrote to Kutuzov the first words that occurred to him, though
 they were meaningless.
 
-MONSIEUR LE PRINCE KOUTOUZOV: I am sending one of my adjutants-general
+MONSIEUR LE PRINCE KOUTOUOV: I am sending one of my adjutants-general
 to discuss several interesting questions with you. I beg your Highness
 to credit what he says to you, especially when he expresses the
 sentiment of esteem and special regard I have long entertained for your
 person. This letter having no other object, I pray God, monsieur le
 Prince Koutouzov, to keep you in His holy and gracious protection!
 
-NAPOLEON MOSCOW, OCTOBER 30, 1812
+NAPOLEON MOSCOW, OCTOBER 0, 181
 
 Kutuzov replied: "I should be cursed by posterity were I looked on as
 the initiator of a settlement of any sort. Such is the present spirit of
@@ -52886,7 +52886,7 @@ reflection of what had to happen.
 
 Prince Michael Ilarionovich! (wrote the Emperor on the second of October
 in a letter that reached Kutuzov after the battle at Tarutino) Since
-September 2 Moscow has been in the hands of the enemy. Your last reports
+September  Moscow has been in the hands of the enemy. Your last reports
 were written on the twentieth, and during all this time not only has no
 action been taken against the enemy or for the relief of the ancient
 capital, but according to your last report you have even retreated
@@ -53406,7 +53406,7 @@ The historians quite falsely represent Napoleon's faculties as having
 weakened in Moscow, and do so only because the results did not justify
 his actions. He employed all his ability and strength to do the best he
 could for himself and his army, as he had done previously and as he did
-subsequently in 1813. His activity at that time was no less astounding
+subsequently in 181. His activity at that time was no less astounding
 than it was in Egypt, in Italy, in Austria, and in Prussia. We do not
 know for certain in how far his genius was genuine in Egypt--where forty
 centuries looked down upon his grandeur--for his great exploits there
@@ -53532,16 +53532,16 @@ the soil. The government has taken the following steps to ensure freedom
 of sale for them: (1) From today, peasants, husbandmen, and those living
 in the neighborhood of Moscow may without any danger bring their
 supplies of all kinds to two appointed markets, of which one is on the
-Mokhovaya Street and the other at the Provision Market. (2) Such
+Mokhovaya Street and the other at the Provision Market. () Such
 supplies will be bought from them at such prices as seller and buyer may
 agree on, and if a seller is unable to obtain a fair price he will be
 free to take his goods back to his village and no one may hinder him
-under any pretense. (3) Sunday and Wednesday of each week are appointed
+under any pretense. () Sunday and Wednesday of each week are appointed
 as the chief market days and to that end a sufficient number of troops
 will be stationed along the highroads on Tuesdays and Saturdays at such
-distances from the town as to protect the carts. (4) Similar measures
+distances from the town as to protect the carts. () Similar measures
 will be taken that peasants with their carts and horses may meet with no
-hindrance on their return journey. (5) Steps will immediately be taken
+hindrance on their return journey. () Steps will immediately be taken
 to re-establish ordinary trading.
 
 Inhabitants of the city and villages, and you, workingmen and artisans,
@@ -53655,7 +53655,7 @@ lawful manner. The sutlers alone venture to trade, and they sell stolen
 goods."
 
 "The neighborhood of my ward continues to be pillaged by soldiers of the
-3rd Corps who, not satisfied with taking from the unfortunate
+rd Corps who, not satisfied with taking from the unfortunate
 inhabitants hiding in the cellars the little they have left, even have
 the ferocity to wound them with their sabers, as I have repeatedly
 witnessed."
@@ -54130,7 +54130,7 @@ pushing him at all.
 
 "Oh, oh, oh! What have they done?" the prisoners on one side and another
 were heard saying as they gazed on the charred ruins. "All beyond the
-river, and Zubova, and in the Kremlin.... Just look! There's not half of
+river, and ubova, and in the Kremlin.... Just look! There's not half of
 it left. Yes, I told you--the whole quarter beyond the river, and so it
 is."
 
@@ -54366,7 +54366,7 @@ plans of battles, dashing about in front of regiments, showering crosses
 on batteries, and so on, and who was thought to be and was spoken of as
 undecided and undiscerning--but whom we find commanding wherever the
 position was most difficult all through the Russo-French wars from
-Austerlitz to the year 1813. At Austerlitz he remained last at the
+Austerlitz to the year 181. At Austerlitz he remained last at the
 Augezd dam, rallying the regiments, saving what was possible when all
 were flying and perishing and not a single general was left in the rear
 guard. Ill with fever he went to Smolensk with twenty thousand men to
@@ -54529,7 +54529,7 @@ and still less speak about it, but must only attend to one's own work.
 And he did his work, giving his whole strength to the task.
 
 Peter Petrovich Konovnitsyn, like Dokhturov, seems to have been included
-merely for propriety's sake in the list of the so-called heroes of 1812-
+merely for propriety's sake in the list of the so-called heroes of 181-
 -the Barclays, Raevskis, Ermolovs, Platovs, and Miloradoviches. Like
 Dokhturov he had the reputation of being a man of very limited capacity
 and information, and like Dokhturov he never made plans of battle but
@@ -54847,7 +54847,7 @@ But they did not cut off or overthrow anybody and the French army,
 closing up more firmly at the danger, continued, while steadily melting
 away, to pursue its fatal path to Smolensk.
 
-BOOK FOURTEEN: 1812
+BOOK FOURTEEN: 181
 
 
 
@@ -54885,7 +54885,7 @@ rights, and the rights and the strength of France increase. The
 victories of the French at Jena and Auerstadt destroy the independent
 existence of Prussia.
 
-But then, in 1812, the French gain a victory near Moscow. Moscow is
+But then, in 181, the French gain a victory near Moscow. Moscow is
 taken and after that, with no further battles, it is not Russia that
 ceases to exist, but the French army of six hundred thousand, and then
 Napoleonic France itself. To strain the facts to fit the rules of
@@ -54904,7 +54904,7 @@ occurred before our fathers' eyes, and for them it was a question of the
 life or death of their fatherland, and it happened in the greatest of
 all known wars.
 
-The period of the campaign of 1812 from the battle of Borodino to the
+The period of the campaign of 181 from the battle of Borodino to the
 expulsion of the French proved that the winning of a battle does not
 produce a conquest and is not even an invariable indication of conquest;
 it proved that the force which decides the fate of peoples lies not in
@@ -54963,7 +54963,7 @@ anyone's tastes or rules and regardless of anything else, it rose and
 fell with stupid simplicity, but consistently, and belabored the French
 till the whole invasion had perished.
 
-And it is well for a people who do not--as the French did in 1813--
+And it is well for a people who do not--as the French did in 181--
 salute according to all the rules of art, and, presenting the hilt of
 their rapier gracefully and politely, hand it to their magnanimous
 conqueror, but at the moment of trial, without asking what rules others
@@ -54984,7 +54984,7 @@ national character. In such actions, instead of two crowds opposing each
 other, the men disperse, attack singly, run away when attacked by
 stronger forces, but again attack when opportunity offers. This was done
 by the guerrillas in Spain, by the mountain tribes in the Caucasus, and
-by the Russians in 1812.
+by the Russians in 181.
 
 People have called this kind of war "guerrilla warfare" and assume that
 by so calling it they have explained its meaning. But such a war does
@@ -55051,7 +55051,7 @@ Ten men, battalions, or divisions, fighting fifteen men, battalions, or
 divisions, conquer--that is, kill or take captive--all the others, while
 themselves losing four, so that on the one side four and on the other
 fifteen were lost. Consequently the four were equal to the fifteen, and
-therefore 4x = 15y. Consequently x/y = 15/4. This equation does not give
+therefore x  1y. Consequently xy  1. This equation does not give
 us the value of the unknown factor but gives us a ratio between two
 unknowns. And by bringing variously selected historic units (battles,
 campaigns, periods of war) into such equations, a series of numbers
@@ -55067,7 +55067,7 @@ account the spirit of the army continually proves incorrect and is in
 particularly striking contrast to the facts when some strong rise or
 fall in the spirit of the troops occurs, as in all national wars.
 
-The French, retreating in 1812--though according to tactics they should
+The French, retreating in 181--though according to tactics they should
 have separated into detachments to defend themselves--congregated into a
 mass because the spirit of the army had so fallen that only the mass
 held the army together. The Russians, on the contrary, ought according
@@ -55094,7 +55094,7 @@ terrible cudgel which regardless of the rules of military science
 destroyed the French, and to him belongs the credit for taking the first
 step toward regularizing this method of warfare.
 
-On August 24 Davydov's first partisan detachment was formed and then
+On August  Davydov's first partisan detachment was formed and then
 others were recognized. The further the campaign progressed the more
 numerous these detachments became.
 
@@ -55126,7 +55126,7 @@ things possible which the commanders of the big detachments did not dare
 to contemplate. The Cossacks and peasants who crept in among the French
 now considered everything possible.
 
-On October 22, Denisov (who was one of the irregulars) was with his
+On October , Denisov (who was one of the irregulars) was with his
 group at the height of the guerrilla enthusiasm. Since early morning he
 and his party had been on the move. All day long he had been watching
 from the forest that skirted the highroad a large French convoy of
@@ -55149,7 +55149,7 @@ him that he was already under the command of the German.
 
 Having arranged matters thus, Denisov and Dolokhov intended, without
 reporting matters to the higher command, to attack and seize that convoy
-with their own small forces. On October 22 it was moving from the
+with their own small forces. On October  it was moving from the
 village of Mikulino to that of Shamshevo. To the left of the road
 between Mikulino and Shamshevo there were large forests, extending in
 some places up to the road itself though in others a mile or more back
@@ -55773,13 +55773,13 @@ darkness, and the drummer boy came to the door.
 
 "Ah, c'est vous!" said Petya. "Voulez-vous manger? N'ayez pas peur, on
 ne vous fera pas de mal," * he added shyly and affectionately, touching
-the boy's hand. "Entrez, entrez." *(2)
+the boy's hand. "Entrez, entrez." *()
 
 
 * "Ah, it's you! Do you want something to eat? Don't be afraid, they
 won't hurt you."
 
-* (2) "Come in, come in."
+* () "Come in, come in."
 
 "Merci, monsieur," * said the drummer boy in a trembling almost childish
 voice, and he began scraping his dirty feet on the threshold.
@@ -55933,11 +55933,11 @@ and the click of a musket.
 
 The blood rushed to Petya's face and he grasped his pistol.
 
-"Lanciers du 6-me," * replied Dolokhov, neither hastening nor slackening
+"Lanciers du -me," * replied Dolokhov, neither hastening nor slackening
 his horse's pace.
 
 
-* "Lancers of the 6th Regiment."
+* "Lancers of the th Regiment."
 
 The black figure of a sentinel stood on the bridge.
 
@@ -56006,7 +56006,7 @@ stranger, asking what he could do for him.
 
 Dolokhov said that he and his companion were trying to overtake their
 regiment, and addressing the company in general asked whether they knew
-anything of the 6th Regiment. None of them knew anything, and Petya
+anything of the th Regiment. None of them knew anything, and Petya
 thought the officers were beginning to look at him and Dolokhov with
 hostility and suspicion. For some seconds all were silent.
 
@@ -57031,12 +57031,12 @@ is bad. Grand is the characteristic, in their conception, of some
 special animals called "heroes." And Napoleon, escaping home in a warm
 fur coat and leaving to perish those who were not merely his comrades
 but were (in his opinion) men he had brought there, feels que c'est
-grand, *(2) and his soul is tranquil.
+grand, *() and his soul is tranquil.
 
 
 * "It is great."
 
-* (2) That it is great.
+* () That it is great.
 
 "Du sublime (he saw something sublime in himself) au ridicule il n'y a
 qu'un pas," * said he. And the whole world for fifty years has been
@@ -57060,7 +57060,7 @@ goodness, and truth are absent.
 CHAPTER XIX
 
 What Russian, reading the account of the last part of the campaign of
-1812, has not experienced an uncomfortable feeling of regret,
+181, has not experienced an uncomfortable feeling of regret,
 dissatisfaction, and perplexity? Who has not asked himself how it is
 that the French were not all captured or destroyed when our three armies
 surrounded them in superior numbers, when the disordered French, hungry
@@ -57120,7 +57120,7 @@ liberation of their country.
 The source of this contradiction lies in the fact that the historians
 studying the events from the letters of the sovereigns and the generals,
 from memoirs, reports, projects, and so forth, have attributed to this
-last period of the war of 1812 an aim that never existed, namely that of
+last period of the war of 181 an aim that never existed, namely that of
 cutting off and capturing Napoleon with his marshals and his army.
 
 There never was or could have been such an aim, for it would have been
@@ -57189,7 +57189,7 @@ them in flight or captivity alike.
 
 Fourthly and chiefly it was impossible, because never since the world
 began has a war been fought under such conditions as those that obtained
-in 1812, and the Russian army in its pursuit of the French strained its
+in 181, and the Russian army in its pursuit of the French strained its
 strength to the utmost and could not have done more without destroying
 itself.
 
@@ -57249,7 +57249,7 @@ The Russian army had to act like a whip to a running animal. And the
 experienced driver knew it was better to hold the whip raised as a
 menace than to strike the running animal on the head.
 
-BOOK FIFTEEN: 1812 - 13
+BOOK FIFTEEN: 181 - 1
 
 
 
@@ -57772,7 +57772,7 @@ useful only because he had a Russian name.
 
 CHAPTER V
 
-In 1812 and 1813 Kutuzov was openly accused of blundering. The Emperor
+In 181 and 181 Kutuzov was openly accused of blundering. The Emperor
 was dissatisfied with him. And in a history recently written by order of
 the Highest Authorities it is said that Kutuzov was a cunning court
 liar, frightened of the name of Napoleon, and that by his blunders at
@@ -57780,7 +57780,7 @@ Krasnoe and the Berezina he deprived the Russian army of the glory of
 complete victory over the French. *
 
 
-* History of the year 1812. The character of Kutuzov and reflections on
+* History of the year 181. The character of Kutuzov and reflections on
 the unsatisfactory results of the battles at Krasnoe, by Bogdanovich.
 
 Such is the fate not of great men (grands hommes) whom the Russian mind
@@ -57793,11 +57793,11 @@ For Russian historians, strange and terrible to say, Napoleon--that most
 insignificant tool of history who never anywhere, even in exile, showed
 human dignity--Napoleon is the object of adulation and enthusiasm; he is
 grand. But Kutuzov--the man who from the beginning to the end of his
-activity in 1812, never once swerving by word or deed from Borodino to
+activity in 181, never once swerving by word or deed from Borodino to
 Vilna, presented an example exceptional in history of self-sacrifice and
 a present consciousness of the future importance of what was happening--
 Kutuzov seems to them something indefinite and pitiful, and when
-speaking of him and of the year 1812 they always seem a little ashamed.
+speaking of him and of the year 181 they always seem a little ashamed.
 
 And yet it is difficult to imagine an historical character whose
 activity was so unswervingly directed to a single aim; and it would be
@@ -57805,7 +57805,7 @@ difficult to imagine any aim more worthy or more consonant with the will
 of the whole people. Still more difficult would it be to find an
 instance in history of the aim of an historical personage being so
 completely accomplished as that to which all Kutuzov's efforts were
-directed in 1812.
+directed in 181.
 
 Kutuzov never talked of "forty centuries looking down from the
 Pyramids," of the sacrifices he offered for the fatherland, or of what
@@ -57860,7 +57860,7 @@ useless and harmful.
 Nor do words alone prove that only he understood the meaning of the
 events. His actions--without the smallest deviation--were all directed
 to one and the same threefold end: (1) to brace all his strength for
-conflict with the French, (2) to defeat them, and (3) to drive them out
+conflict with the French, () to defeat them, and () to drive them out
 of Russia, minimizing as far as possible the sufferings of our people
 and of our army.
 
@@ -58429,9 +58429,9 @@ galant." *
 * Who had a triple talent For drinking, for fighting, And for being a
 gallant old boy...
 
-"It goes smoothly, too. Well, now, Zaletaev!"
+"It goes smoothly, too. Well, now, aletaev!"
 
-"Ke..." Zaletaev, brought out with effort: "ke-e-e-e," he drawled,
+"Ke..." aletaev, brought out with effort: "ke-e-e-e," he drawled,
 laboriously pursing his lips, "le-trip-ta-la-de-bu-de-ba, e de-tra-va-
 ga-la" he sang.
 
@@ -58734,7 +58734,7 @@ the Treasury in Petersburg to recruit the militia, and then to the army
 when he was needed there--now when his part was played out, Kutuzov's
 place was taken by a new and necessary performer.
 
-The war of 1812, besides its national significance dear to every Russian
+The war of 181, besides its national significance dear to every Russian
 heart, was now to assume another, a European, significance.
 
 The movement of peoples from west to east was to be succeeded by a
@@ -59100,9 +59100,9 @@ common: a desire to get to the place that had been called Moscow, to
 apply their activities there.
 
 Within a week Moscow already had fifteen thousand inhabitants, in a
-fortnight twenty-five thousand, and so on. By the autumn of 1813 the
+fortnight twenty-five thousand, and so on. By the autumn of 181 the
 number, ever increasing and increasing, exceeded what it had been in
-1812.
+181.
 
 The first Russians to enter Moscow were the Cossacks of Wintzingerode's
 detachment, peasants from the adjacent villages, and residents who had
@@ -60064,7 +60064,7 @@ They were silent awhile.
 "But why go to Petersburg?" Natasha suddenly asked, and hastily replied
 to her own question. "But no, no, he must... Yes, Mary, He must...."
 
-FIRST EPILOGUE: 1813 - 20
+FIRST EPILOGUE: 181 - 0
 
 
 
@@ -60110,7 +60110,7 @@ things he did wrong at this period of his reign.
 
 "He ought to have acted in this way and in that way. In this case he did
 well and in that case badly. He behaved admirably at the beginning of
-his reign and during 1812, but acted badly by giving a constitution to
+his reign and during 181, but acted badly by giving a constitution to
 Poland, forming the Holy Alliance, entrusting power to Arakcheev,
 favoring Golitsyn and mysticism, and afterwards Shishkov and Photius. He
 also acted badly by concerning himself with the active army and
@@ -60124,11 +60124,11 @@ What do these reproaches mean?
 
 Do not the very actions for which the historians praise Alexander I (the
 liberal attempts at the beginning of his reign, his struggle with
-Napoleon, the firmness he displayed in 1812 and the campaign of 1813)
+Napoleon, the firmness he displayed in 181 and the campaign of 181)
 flow from the same sources--the circumstances of his birth, education,
 and life--that made his personality what it was and from which the
 actions for which they blame him (the Holy Alliance, the restoration of
-Poland, and the reaction of 1820 and later) also flowed?
+Poland, and the reaction of 180 and later) also flowed?
 
 In what does the substance of those reproaches lie?
 
@@ -60281,8 +60281,8 @@ The commencement of that movement was the movement from west to east.
 For the peoples of the west to be able to make their warlike movement to
 Moscow it was necessary: (1) that they should form themselves into a
 military group of a size able to endure a collision with the warlike
-military group of the east, (2) that they should abandon all established
-traditions and customs, and (3) that during their military movement they
+military group of the east, () that they should abandon all established
+traditions and customs, and () that during their military movement they
 should have at their head a man who could justify to himself and to them
 the deceptions, robberies, and murders which would have to be committed
 during that movement.
@@ -60381,7 +60381,7 @@ and his ideal of grandeur and glory, which seems excellent and
 reasonable to them all.
 
 As if measuring themselves and preparing for the coming movement, the
-western forces push toward the east several times in 1805, 1806, 1807,
+western forces push toward the east several times in 180, 180, 1807,
 and 1809, gaining strength and growing. In 1811 the group of people that
 had formed in France unites into one group with the peoples of Central
 Europe. The strength of the justification of the man who stands at the
@@ -60422,7 +60422,7 @@ not for Napoleon but always against him.
 A countermovement is then accomplished from east to west with a
 remarkable resemblance to the preceding movement from west to east.
 Attempted drives from east to west--similar to the contrary movements of
-1805, 1807, and 1809--precede the great westward movement; there is the
+180, 1807, and 1809--precede the great westward movement; there is the
 same coalescence into a group of enormous dimensions; the same adhesion
 of the people of Central Europe to the movement; the same hesitation
 midway, and the same increasing rapidity as the goal is approached.
@@ -60508,7 +60508,7 @@ as soon as the necessity for a general European war presented itself he
 appeared in his place at the given moment and, uniting the nations of
 Europe, led them to the goal.
 
-The goal is reached. After the final war of 1815 Alexander possesses all
+The goal is reached. After the final war of 181 Alexander possesses all
 possible power. How does he use it?
 
 Alexander I--the pacifier of Europe, the man who from his early years
@@ -60557,7 +60557,7 @@ characters and nations.
 
 CHAPTER V
 
-Natasha's wedding to Bezukhov, which took place in 1813, was the last
+Natasha's wedding to Bezukhov, which took place in 181, was the last
 happy event in the family of the old Rostovs. Count Ilya Rostov died
 that same year and, as always happens, after the father's death the
 family group broke up.
@@ -60882,14 +60882,14 @@ became possible, inevitable, and very near.
 
 CHAPTER VII
 
-In the winter of 1813 Nicholas married Princess Mary and moved to Bald
+In the winter of 181 Nicholas married Princess Mary and moved to Bald
 Hills with his wife, his mother, and Sonya.
 
 Within four years he had paid off all his remaining debts without
 selling any of his wife's property, and having received a small
 inheritance on the death of a cousin he paid his debt to Pierre as well.
 
-In another three years, by 1820, he had so managed his affairs that he
+In another three years, by 180, he had so managed his affairs that he
 was able to buy a small estate adjoining Bald Hills and was negotiating
 to buy back Otradnoe--that being his pet dream.
 
@@ -61160,7 +61160,7 @@ provided out of the produce of the estate.
 
 CHAPTER IX
 
-It was the eve of St. Nicholas, the fifth of December, 1820. Natasha had
+It was the eve of St. Nicholas, the fifth of December, 180. Natasha had
 been staying at her brother's with her husband and children since early
 autumn. Pierre had gone to Petersburg on business of his own for three
 weeks as he said, but had remained there nearly seven weeks and was
@@ -61412,7 +61412,7 @@ instant.
 
 CHAPTER X
 
-Natasha had married in the early spring of 1813, and in 1820 already had
+Natasha had married in the early spring of 181, and in 180 already had
 three daughters besides a son for whom she had longed and whom she was
 now nursing. She had grown stouter and broader, so that it was difficult
 to recognize in this robust, motherly woman the slim, lively Natasha of
@@ -61795,7 +61795,7 @@ with pleasure and he flushed and was breathless when Pierre spoke to
 him. He did not miss a single word he uttered, and would afterwards,
 with Dessalles or by himself, recall and reconsider the meaning of
 everything Pierre had said. Pierre's past life and his unhappiness prior
-to 1812 (of which young Nicholas had formed a vague poetic picture from
+to 181 (of which young Nicholas had formed a vague poetic picture from
 some words he had overheard), his adventures in Moscow, his captivity,
 Platon Karataev (of whom he had heard from Pierre), his love for Natasha
 (of whom the lad was also particularly fond), and especially Pierre's
@@ -62345,7 +62345,7 @@ from the boy.
 CHAPTER XV
 
 The conversation at supper was not about politics or societies, but
-turned on the subject Nicholas liked best--recollections of 1812.
+turned on the subject Nicholas liked best--recollections of 181.
 Denisov started these and Pierre was particularly agreeable and amusing
 about them. The family separated on the most friendly terms.
 
@@ -62371,7 +62371,7 @@ book.
 
 It was in French.
 
-December 4. Today when Andrusha (her eldest boy) woke up he did not wish
+December . Today when Andrusha (her eldest boy) woke up he did not wish
 to dress and Mademoiselle Louise sent for me. He was naughty and
 obstinate. I tried threats, but he only grew angrier. Then I took the
 matter in hand: I left him alone and began with nurse's help to get the
@@ -62396,7 +62396,7 @@ educational methods. They were for the most part quite insignificant
 trifles, but did not seem so to the mother or to the father either, now
 that he read this diary about his children for the first time.
 
-Under the date "5" was entered:
+Under the date "" was entered:
 
 Mitya was naughty at table. Papa said he was to have no pudding. He had
 none, but looked so unhappily and greedily at the others while they were
@@ -62810,7 +62810,7 @@ replacing them by a new conception, and the logic of the situation has
 obliged the historians, after they had apparently rejected the divine
 authority of the kings and the "fate" of the ancients, to reach the same
 conclusion by another road, that is, to recognize (1) nations guided by
-individual men, and (2) the existence of a known aim to which these
+individual men, and () the existence of a known aim to which these
 nations and humanity at large are tending.
 
 At the basis of the works of all the modern historians from Gibbon to
@@ -62830,7 +62830,7 @@ Europe.
 In 1789 a ferment arises in Paris; it grows, spreads, and is expressed
 by a movement of peoples from west to east. Several times it moves
 eastward and collides with a countermovement from the east westward. In
-1812 it reaches its extreme limit, Moscow, and then, with remarkable
+181 it reaches its extreme limit, Moscow, and then, with remarkable
 symmetry, a countermovement occurs from east to west, attracting to it,
 as the first movement had done, the nations of middle Europe. The
 counter movement reaches the starting point of the first movement in the
@@ -62995,7 +62995,7 @@ historic character is first the product of his time, and his power only
 the resultant of various forces, and then his power is itself a force
 producing events. Gervinus, Schlosser, and others, for instance, at one
 time prove Napoleon to be a product of the Revolution, of the ideas of
-1789 and so forth, and at another plainly say that the campaign of 1812
+1789 and so forth, and at another plainly say that the campaign of 181
 and other things they do not like were simply the product of Napoleon's
 misdirected will, and that the very ideas of 1789 were arrested in their
 development by Napoleon's caprice. The ideas of the Revolution and the
@@ -63014,11 +63014,11 @@ observed by the universal historians, and so to explain the resultant
 forces they are obliged to admit, in addition to the insufficient
 components, another unexplained force affecting the resultant action.
 
-Specialist historians describing the campaign of 1813 or the restoration
+Specialist historians describing the campaign of 181 or the restoration
 of the Bourbons plainly assert that these events were produced by the
 will of Alexander. But the universal historian Gervinus, refuting this
 opinion of the specialist historian, tries to prove that the campaign of
-1813 and the restoration of the Bourbons were due to other things beside
+181 and the restoration of the Bourbons were due to other things beside
 Alexander's will--such as the activity of Stein, Metternich, Madame de
 Stael, Talleyrand, Fichte, Chateaubriand, and others. The historian
 evidently decomposes Alexander's power into the components: Talleyrand,
@@ -63092,7 +63092,7 @@ natural and agreeable for them to think that the activity of their class
 supplies the basis of the movement of all humanity, just as a similar
 belief is natural and agreeable to traders, agriculturists, and soldiers
 (if they do not express it, that is merely because traders and soldiers
-do not write history), and (2) that spiritual activity, enlightenment,
+do not write history), and () that spiritual activity, enlightenment,
 civilization, culture, ideas, are all indistinct, indefinite conceptions
 under whose banner it is very easy to use words having a still less
 definite meaning, and which can therefore be readily introduced into any
@@ -63104,7 +63104,7 @@ histories of culture, to which all general histories tend more and more
 to approximate, are significant from the fact that after seriously and
 minutely examining various religious, philosophic, and political
 doctrines as causes of events, as soon as they have to describe an
-actual historic event such as the campaign of 1812 for instance, they
+actual historic event such as the campaign of 181 for instance, they
 involuntarily describe it as resulting from an exercise of power--and
 say plainly that that was the result of Napoleon's will. Speaking so,
 the historians of culture involuntarily contradict themselves, and show
@@ -63278,7 +63278,7 @@ Do palace revolutions--in which sometimes only two or three people take
 part--transfer the will of the people to a new ruler? In international
 relations, is the will of the people also transferred to their
 conqueror? Was the will of the Confederation of the Rhine transferred to
-Napoleon in 1806? Was the will of the Russian people transferred to
+Napoleon in 180? Was the will of the Russian people transferred to
 Napoleon in 1809, when our army in alliance with the French went to
 fight the Austrians?
 
@@ -63288,11 +63288,11 @@ Either to assume (1) that the will of the people is always
 unconditionally transferred to the ruler or rulers they have chosen, and
 that therefore every emergence of a new power, every struggle against
 the power once appointed, should be absolutely regarded as an
-infringement of the real power; or (2) that the will of the people is
+infringement of the real power; or () that the will of the people is
 transferred to the rulers conditionally, under definite and known
 conditions, and to show that all limitations, conflicts, and even
 destructions of power result from a nonobservance by the rulers of the
-conditions under which their power was entrusted to them; or (3) that
+conditions under which their power was entrusted to them; or () that
 the will of the people is delegated to the rulers conditionally, but
 that the conditions are unknown and indefinite, and that the appearance
 of several authorities, their struggles and their falls, result solely
@@ -63572,7 +63572,7 @@ speaking of commands that are the expression of the will of men acting
 in time and in relation to one another, to explain the connection of
 commands with events we must restore: (1) the condition of all that
 takes place: the continuity of movement in time both of the events and
-of the person who commands, and (2) the inevitability of the connection
+of the person who commands, and () the inevitability of the connection
 between the person commanding and those who execute his command.
 
 
@@ -63640,7 +63640,7 @@ We say that Napoleon wished to invade Russia and invaded it. In reality
 in all Napoleon's activity we never find anything resembling an
 expression of that wish, but find a series of orders, or expressions of
 his will, very variously and indefinitely directed. Amid a long series
-of unexecuted orders of Napoleon's one series, for the campaign of 1812,
+of unexecuted orders of Napoleon's one series, for the campaign of 181,
 was carried out--not because those orders differed in any way from the
 other, unexecuted orders but because they coincided with the course of
 events that led the French army into Russia; just as in stencil work
@@ -63829,14 +63829,14 @@ these two essential questions of history:
 
 (1) What is power?
 
-(2) What force produces the movement of the nations?
+() What force produces the movement of the nations?
 
 (1) Power is the relation of a given person to other individuals, in
 which the more this person expresses opinions, predictions, and
 justifications of the collective action that is performed, the less is
 his participation in that action.
 
-(2) The movement of nations is caused not by power, nor by intellectual
+() The movement of nations is caused not by power, nor by intellectual
 activity, nor even by a combination of the two as historians have
 supposed, but by the activity of all the people who participate in the
 events, and who always combine in such a way that those taking the
@@ -64142,9 +64142,9 @@ necessity is increased and diminished depend on three considerations:
 
 (1) The relation to the external world of the man who commits the deeds.
 
-(2) His relation to time.
+() His relation to time.
 
-(3) His relation to the causes leading to the action.
+() His relation to the causes leading to the action.
 
 The first consideration is the clearness of our perception of the man's
 relation to the external world and the greater or lesser clearness of
@@ -64310,7 +64310,7 @@ be free it was necessary that it should encounter no obstacles. To
 conceive of a man being free we must imagine him outside space, which is
 evidently impossible.
 
-(2) However much we approximate the time of judgment to the time of the
+() However much we approximate the time of judgment to the time of the
 deed, we never get a conception of freedom in time. For if I examine an
 action committed a second ago I must still recognize it as not being
 free, for it is irrevocably linked to the moment at which it was
@@ -64330,7 +64330,7 @@ have been any other. To imagine it as free, it is necessary to imagine
 it in the present, on the boundary between the past and the future--that
 is, outside time, which is impossible.
 
-(3) However much the difficulty of understanding the causes may be
+() However much the difficulty of understanding the causes may be
 increased, we never reach a conception of complete freedom, that is, an
 absence of cause. However inaccessible to us may be the cause of the
 expression of will in any action, our own or another's, the first demand
@@ -64356,12 +64356,12 @@ therefore so long as not all the conditions influencing men are defined,
 there is no complete inevitability but a certain measure of freedom
 remains.
 
-(2) However we may prolong the period of time between the action we are
+() However we may prolong the period of time between the action we are
 examining and the judgment upon it, that period will be finite, while
 time is infinite, and so in this respect too there can never be absolute
 inevitability.
 
-(3) However accessible may be the chain of causation of any action, we
+() However accessible may be the chain of causation of any action, we
 shall never know the whole chain since it is endless, and so again we
 never reach absolute inevitability.
 
@@ -64397,15 +64397,15 @@ whole outlook on the universe is constructed--the incomprehensible
 essence of life, and the laws defining that essence.
 
 Reason says: (1) space with all the forms of matter that give it
-visibility is infinite, and cannot be imagined otherwise. (2) Time is
+visibility is infinite, and cannot be imagined otherwise. () Time is
 infinite motion without a moment of rest and is unthinkable otherwise.
-(3) The connection between cause and effect has no beginning and can
+() The connection between cause and effect has no beginning and can
 have no end.
 
 Consciousness says: (1) I alone am, and all that exists is but me,
-consequently I include space. (2) I measure flowing time by the fixed
+consequently I include space. () I measure flowing time by the fixed
 moment of the present in which alone I am conscious of myself as living,
-consequently I am outside time. (3) I am beyond cause, for I feel myself
+consequently I am outside time. () I am beyond cause, for I feel myself
 to be the cause of every manifestation of my life.
 
 Reason gives expression to the laws of inevitability. Consciousness
@@ -64656,9 +64656,9 @@ End of the Project Gutenberg EBook of War and Peace, by Leo Tolstoy
 
 *** END OF THIS PROJECT GUTENBERG EBOOK WAR AND PEACE ***
 
-***** This file should be named 2600-8.txt or 2600-8.zip ***** This and
+***** This file should be named 00-8.txt or 00-8.zip ***** This and
 all associated files of various formats will be found in:
-http://www.gutenberg.org/2/6/0/2600/
+http:www.gutenberg.org000
 
 An Anonymous Volunteer, and David Widger
 
@@ -64692,7 +64692,7 @@ distribution of electronic works, by using or distributing this work (or
 any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
+http:gutenberg.orglicense).
 
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
@@ -64701,7 +64701,7 @@ electronic works
 1.A.  By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
+(trademarkcopyright) agreement.  If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or destroy
 all copies of Project Gutenberg-tm electronic works in your possession.
 If you paid a fee for obtaining a copy of or access to a Project
@@ -64760,7 +64760,7 @@ no restrictions whatsoever.  You may copy it, give it away or re-use it
 under the terms of the Project Gutenberg License included with this
 eBook or online at www.gutenberg.org
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E..  If an individual Project Gutenberg-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
 posted with permission of the copyright holder), the work can be copied
 and distributed to anyone in the United States without paying any fees
@@ -64771,24 +64771,24 @@ through 1.E.7 or obtain permission for the use of the work and the
 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E..  If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
 terms imposed by the copyright holder.  Additional terms will be linked
 to the Project Gutenberg-tm License for all works posted with the
 permission of the copyright holder found at the beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E..  Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+1.E..  Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E..  You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
@@ -64808,26 +64808,26 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 access to or distributing Project Gutenberg-tm electronic works provided
 that
 
-- You pay a royalty fee of 20% of the gross profits you derive from the
+- You pay a royalty fee of 0 of the gross profits you derive from the
 use of Project Gutenberg-tm works calculated using the method you
 already use to calculate your applicable taxes.  The fee is owed to the
 owner of the Project Gutenberg-tm trademark, but he has agreed to donate
 royalties under this paragraph to the Project Gutenberg Literary Archive
-Foundation.  Royalty payments must be paid within 60 days following each
+Foundation.  Royalty payments must be paid within 0 days following each
 date on which you prepare (or are legally required to prepare) your
 periodic tax returns.  Royalty payments should be clearly marked as such
 and sent to the Project Gutenberg Literary Archive Foundation at the
-address specified in Section 4, "Information about donations to the
+address specified in Section , "Information about donations to the
 Project Gutenberg Literary Archive Foundation."
 
 - You provide a full refund of any money paid by a user who notifies you
-in writing (or by e-mail) within 30 days of receipt that s/he does not
+in writing (or by e-mail) within 0 days of receipt that she does not
 agree to the terms of the full Project Gutenberg-tm License.  You must
 require such a user to return or destroy all copies of the works
 possessed in a physical medium and discontinue all use of and all access
 to other copies of Project Gutenberg-tm works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
+- You provide, in accordance with paragraph 1.F., a full refund of any
 money paid for a work or a replacement copy, if a defect in the
 electronic work is discovered and reported to you within 90 days of
 receipt of the work.
@@ -64840,7 +64840,7 @@ electronic work or group of works on different terms than are set forth
 in this agreement, you must obtain permission in writing from both the
 Project Gutenberg Literary Archive Foundation and Michael Hart, the
 owner of the Project Gutenberg-tm trademark.  Contact the Foundation as
-set forth in Section 3 below.
+set forth in Section  below.
 
 1.F.
 
@@ -64854,20 +64854,20 @@ errors, a copyright or other intellectual property infringement, a
 defective or damaged disk or other medium, a computer virus, or computer
 codes that damage or cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+1.F..  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F., the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal fees.
 YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY,
 BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN
-PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
+PARAGRAPH F.  YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND
 ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR
 ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES
 EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F..  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
 written explanation to the person you received the work from.  If you
@@ -64880,12 +64880,12 @@ receive the work electronically in lieu of a refund.  If the second copy
 is also defective, you may demand a refund in writing without further
 opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+1.F..  Except for the limited right of replacement or refund set forth
+in paragraph 1.F., this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F..  Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
 If any disclaimer or limitation set forth in this agreement violates the
 law of the state applicable to this agreement, the agreement shall be
@@ -64893,7 +64893,7 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 provision of this agreement shall not void the remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.F..  INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
 providing copies of Project Gutenberg-tm electronic works in accordance
 with this agreement, and any volunteers associated with the production,
@@ -64905,7 +64905,7 @@ work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section  .  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of computers
@@ -64916,57 +64916,57 @@ people in all walks of life.
 Volunteers and financial support to provide volunteers with the
 assistance they need, are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will remain
-freely available for generations to come.  In 2001, the Project
+freely available for generations to come.  In 001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Project Gutenberg-tm and future generations. To
 learn more about the Project Gutenberg Literary Archive Foundation and
-how your efforts and donations can help, see Sections 3 and 4 and the
-Foundation web page at http://www.pglaf.org.
+how your efforts and donations can help, see Sections  and  and the
+Foundation web page at http:www.pglaf.org.
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section .  Information about the Project Gutenberg Literary Archive
 Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the state
+01(c)() educational corporation organized under the laws of the state
 of Mississippi and granted tax exempt status by the Internal Revenue
 Service.  The Foundation's EIN or federal tax identification number is
-64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+-11.  Its 01(c)() letter is posted at
+http:pglaf.orgfundraising.  Contributions to the Project Gutenberg
 Literary Archive Foundation are tax deductible to the full extent
 permitted by U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
+The Foundation's principal office is located at 7 Melan Dr. S.
+Fairbanks, AK, 9971., but its volunteers and employees are scattered
 throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
+North 100 West, Salt Lake City, UT 811, (801) 9-1887, email
+businesspglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation's web site and official page
-at http://pglaf.org
+at http:pglaf.org
 
 For additional contact information: Dr. Gregory B. Newby Chief Executive
-and Director gbnewby@pglaf.org
+and Director gbnewbypglaf.org
 
 
-Section 4.  Information about Donations to the Project Gutenberg
+Section .  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
 Project Gutenberg-tm depends upon and cannot survive without wide spread
 public support and donations to carry out its mission of increasing the
 number of public domain and licensed works that can be freely
 distributed in machine readable form accessible by the widest array of
-equipment including outdated equipment.  Many small donations ($1 to
-$5,000) are particularly important to maintaining tax exempt status with
+equipment including outdated equipment.  Many small donations (eehhs 1 to
+eehhs ,000) are particularly important to maintaining tax exempt status with
 the IRS.
 
 The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
+charities and charitable donations in all 0 states of the United
 States.  Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
 with these requirements.  We do not solicit donations in locations where
 we have not received written confirmation of compliance.  To SEND
 DONATIONS or determine the status of compliance for any particular state
-visit http://pglaf.org
+visit http:pglaf.org
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -64980,10 +64980,10 @@ the United States.  U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other ways
 including checks, online payments and credit card donations. To donate,
-please visit: http://pglaf.org/donate
+please visit: http:pglaf.orgdonate
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section .  General Information About Project Gutenberg-tm electronic
 works.
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
@@ -64999,9 +64999,10 @@ in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-http://www.gutenberg.org
+http:www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm, including
 how to make donations to the Project Gutenberg Literary Archive
 Foundation, how to help produce our new eBooks, and how to subscribe to
 our email newsletter to hear about new eBooks.
+e
